@@ -30,6 +30,7 @@ venv/
 # Logs and temp
 *.log
 build_log.txt
+staged.txt
 
 # Build outputs
 *.apk

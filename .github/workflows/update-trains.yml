@@ -65,6 +65,18 @@ jobs:
             git push
           fi
 
+      - name: Sync to Gist
+        env:
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+          GIST_ID:    ${{ secrets.GIST_ID }}
+        run: |
+          curl -fsSL -X PATCH \
+            -H "Authorization: token $GIST_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "$(jq -nc --arg c "$(cat egypt_railways.json)" \
+                  '{files: {"egypt_railways.json": {content: $c}}}')" \
+            "https://api.github.com/gists/$GIST_ID"
+
       - name: Upload artifact
         if: always()
         uses: actions/upload-artifact@v4

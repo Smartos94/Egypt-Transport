@@ -60,39 +60,22 @@ GitHub-hosted repo. After pushing:
 - Or trigger manually: **Actions** → *Update Egyptian Railways Data* →
   **Run workflow**
 
-## How the Gist stays in sync (optional)
+## How the Gist stays in sync ✅
 
-The workflow commits the new JSON to the **repo**, but not the Gist. To
-keep the Gist updated automatically, you have two options:
+The workflow automatically syncs the new JSON to the Gist after each scrape
+via the `Sync to Gist` step. Two repo secrets store the credentials:
 
-**A) Manual** — after each workflow run, copy `egypt_railways.json` from
-the repo to the Gist (overwriting). Takes 30 seconds.
+- `GIST_ID` = `7f6e8b2d105f74d9157ddfeef6c6b0fc` (already set)
+- `GIST_TOKEN` = a GitHub PAT with `gist` scope (already set)
 
-**B) Automatic** — add a second workflow step that uses
-[`actions/github-script`](https://github.com/actions/github-script) to
-update the Gist via the GitHub API with a `GIST_TOKEN` secret. The token
-only needs `gist` scope.
-
-A reference snippet (drop into `update-trains.yml` after the commit step):
-
-```yaml
-      - name: Sync to Gist
-        env:
-          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
-          GIST_ID:    ${{ secrets.GIST_ID }}
-        run: |
-          curl -fsSL -X PATCH \
-            -H "Authorization: token $GIST_TOKEN" \
-            -H "Content-Type: application/json" \
-            -d "$(jq -nc --arg c "$(cat egypt_railways.json)" \
-                  '{files: {"egypt_railways.json": {content: $c}}}')" \
-            "https://api.github.com/gists/$GIST_ID"
+These were configured with:
+```
+gh secret set GIST_ID --repo Smartos94/Egypt-Transport --body "7f6e8b2d105f74d9157ddfeef6c6b0fc"
+gh secret set GIST_TOKEN --repo Smartos94/Egypt-Transport --body "$(gh auth token)"
 ```
 
-To get `GIST_ID` and `GIST_TOKEN`:
-- `GIST_ID` is the URL path of your Gist (the part after `/gist/`)
-- `GIST_TOKEN` is a personal access token with `gist` scope (Settings →
-  Developer settings → Personal access tokens)
+If the PAT expires, regenerate it at https://github.com/settings/tokens
+(with `gist` scope) and update the secret.
 
 ## Cost
 

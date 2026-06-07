@@ -650,7 +650,7 @@ class MonorailViewModel(application: Application) : AndroidViewModel(application
     }
 
     companion object {
-        const val DATA_URL = "https://gist.githubusercontent.com/Smartos94/15a2c2c80510266693390ce126eab2d1/raw/monorail_data.json"
+        const val DATA_URL = "https://gist.githubusercontent.com/Smartos94/e9d680c6696d22b90a82b1c402d1f57e/raw/monorail_data.json"
         const val RAILWAYS_URL = "https://gist.githubusercontent.com/Smartos94/7f6e8b2d105f74d9157ddfeef6c6b0fc/raw/egypt_railways.json"
     }
 }

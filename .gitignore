@@ -1,0 +1,40 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/app/build
+/app/release
+/captures
+/.build-outputs
+.externalNativeBuild
+.cxx
+local.properties
+.env
+debug.keystore
+
+# Python (scraper)
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Logs and temp
+*.log
+build_log.txt
+
+# Build outputs
+*.apk
+*.aab
+
+# Reference backups (regenerable)
+monorail_data_gist_v117_fixed.json
+egypt_railways.json.bak

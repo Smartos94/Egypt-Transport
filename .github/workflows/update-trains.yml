@@ -70,11 +70,11 @@ jobs:
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
           GIST_ID:    ${{ secrets.GIST_ID }}
         run: |
-          PAYLOAD=$(jq -nc --rawfile c egypt_railways.json '{files: {"egypt_railways.json": {content: $c}}}')
+          jq -nc --rawfile c egypt_railways.json '{files: {"egypt_railways.json": {content: $c}}}' > payload.json
           curl -fsSL -X PATCH \
             -H "Authorization: token $GIST_TOKEN" \
             -H "Content-Type: application/json" \
-            -d "$PAYLOAD" \
+            -d @payload.json \
             "https://api.github.com/gists/$GIST_ID"
 
       - name: Upload artifact

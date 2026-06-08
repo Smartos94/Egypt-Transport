@@ -1054,6 +1054,44 @@
       ]
     },
     {
+      "id": "RAIL_TRAIN_1933-1934",
+      "number": "1933-1934",
+      "nameEn": "AC Russian 1933-1934",
+      "nameAr": "AC روسي 1933-1934",
+      "lineId": "RAILWAY_CAIRO_ALEX",
+      "type": "AC Russian",
+      "directionEn": "Cairo → Damanhour",
+      "directionAr": "القاهرة ← دمنهور",
+      "departureTime": "11:10 PM",
+      "arrivalTime": "1:10 AM",
+      "durationMinutes": 120,
+      "fare": 65.0,
+      "stationIds": [
+        "RAIL_CAIRO_RAMSES",
+        "RAIL_TANTA",
+        "RAIL_DAMANHOUR"
+      ]
+    },
+    {
+      "id": "RAIL_TRAIN_1935-1936",
+      "number": "1935-1936",
+      "nameEn": "AC Russian 1935-1936",
+      "nameAr": "AC روسي 1935-1936",
+      "lineId": "RAILWAY_CAIRO_ALEX",
+      "type": "AC Russian",
+      "directionEn": "Damanhour → Cairo",
+      "directionAr": "دمنهور ← القاهرة",
+      "departureTime": "7:03 PM",
+      "arrivalTime": "8:55 PM",
+      "durationMinutes": 112,
+      "fare": 60.0,
+      "stationIds": [
+        "RAIL_DAMANHOUR",
+        "RAIL_TANTA",
+        "RAIL_CAIRO_RAMSES"
+      ]
+    },
+    {
       "id": "RAIL_TRAIN_196",
       "number": "196",
       "nameEn": "AC Russian 196",
@@ -1955,6 +1993,44 @@
       ]
     },
     {
+      "id": "RAIL_TRAIN_939-940",
+      "number": "939-940",
+      "nameEn": "AC Russian 939-940",
+      "nameAr": "AC روسي 939-940",
+      "lineId": "RAILWAY_CAIRO_ALEX",
+      "type": "AC Russian",
+      "directionEn": "Cairo → Damanhour",
+      "directionAr": "القاهرة ← دمنهور",
+      "departureTime": "5:50 AM",
+      "arrivalTime": "7:55 AM",
+      "durationMinutes": 125,
+      "fare": 65.0,
+      "stationIds": [
+        "RAIL_CAIRO_RAMSES",
+        "RAIL_TANTA",
+        "RAIL_DAMANHOUR"
+      ]
+    },
+    {
+      "id": "RAIL_TRAIN_942-943",
+      "number": "942-943",
+      "nameEn": "AC Russian 942-943",
+      "nameAr": "AC روسي 942-943",
+      "lineId": "RAILWAY_CAIRO_ALEX",
+      "type": "AC Russian",
+      "directionEn": "Damanhour → Cairo",
+      "directionAr": "دمنهور ← القاهرة",
+      "departureTime": "2:21 AM",
+      "arrivalTime": "4:15 AM",
+      "durationMinutes": 114,
+      "fare": 60.0,
+      "stationIds": [
+        "RAIL_DAMANHOUR",
+        "RAIL_TANTA",
+        "RAIL_CAIRO_RAMSES"
+      ]
+    },
+    {
       "id": "RAIL_TRAIN_1004",
       "number": "1004",
       "nameEn": "AC Russian 1004",
@@ -2727,33 +2803,6 @@
       ]
     },
     {
-      "id": "RAIL_TRAIN_1930",
-      "number": "1930",
-      "nameEn": "AC Spanish 1930",
-      "nameAr": "مكيف إسباني 1930",
-      "lineId": "RAILWAY_CAIRO_ASWAN",
-      "type": "AC Spanish",
-      "directionEn": "Cairo → Aswan",
-      "directionAr": "القاهرة ← أسوان",
-      "departureTime": "1:20 AM",
-      "arrivalTime": "2:20 PM",
-      "durationMinutes": 780,
-      "fare": 999999.0,
-      "stationIds": [
-        "RAIL_CAIRO_RAMSES",
-        "RAIL_GIZA",
-        "RAIL_MINYA",
-        "RAIL_ASYUT",
-        "RAIL_SOHAG",
-        "RAIL_QENA",
-        "RAIL_LUXOR",
-        "RAIL_ESNA",
-        "RAIL_EDFU",
-        "RAIL_KOM_OMBO",
-        "RAIL_ASWAN"
-      ]
-    },
-    {
       "id": "RAIL_TRAIN_1931",
       "number": "1931",
       "nameEn": "AC Spanish 1931",
@@ -2781,10 +2830,10 @@
     {
       "id": "RAIL_TRAIN_1938",
       "number": "1938",
-      "nameEn": "AC Spanish 1938",
-      "nameAr": "مكيف إسباني 1938",
+      "nameEn": "Premium + AC Spanish 1938",
+      "nameAr": "Premium + AC Spanish 1938",
       "lineId": "RAILWAY_CAIRO_ASWAN",
-      "type": "AC Spanish",
+      "type": "Premium + AC Spanish",
       "directionEn": "Cairo → Aswan",
       "directionAr": "القاهرة ← أسوان",
       "departureTime": "9:50 PM",
@@ -2802,138 +2851,6 @@
         "RAIL_EDFU",
         "RAIL_KOM_OMBO",
         "RAIL_ASWAN"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_1939",
-      "number": "1939",
-      "nameEn": "AC Spanish 1939",
-      "nameAr": "مكيف إسباني 1939",
-      "lineId": "RAILWAY_CAIRO_ASWAN",
-      "type": "AC Spanish",
-      "directionEn": "Aswan → Cairo",
-      "directionAr": "أسوان ← القاهرة",
-      "departureTime": "10:30 PM",
-      "arrivalTime": "11:15 AM",
-      "durationMinutes": 765,
-      "fare": 999999.0,
-      "stationIds": [
-        "RAIL_ASWAN",
-        "RAIL_KOM_OMBO",
-        "RAIL_EDFU",
-        "RAIL_ESNA",
-        "RAIL_LUXOR",
-        "RAIL_QENA",
-        "RAIL_SOHAG",
-        "RAIL_ASYUT",
-        "RAIL_MINYA",
-        "RAIL_GIZA",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_1942",
-      "number": "1942",
-      "nameEn": "AC Russian 1942",
-      "nameAr": "AC روسي 1942",
-      "lineId": "RAILWAY_CAIRO_ASWAN",
-      "type": "AC Russian",
-      "directionEn": "Cairo → Aswan",
-      "directionAr": "القاهرة ← أسوان",
-      "departureTime": "9:50 PM",
-      "arrivalTime": "10:05 AM",
-      "durationMinutes": 735,
-      "fare": 999999.0,
-      "stationIds": [
-        "RAIL_CAIRO_RAMSES",
-        "RAIL_GIZA",
-        "RAIL_ASYUT",
-        "RAIL_SOHAG",
-        "RAIL_QENA",
-        "RAIL_LUXOR",
-        "RAIL_EDFU",
-        "RAIL_KOM_OMBO",
-        "RAIL_ASWAN"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_1943",
-      "number": "1943",
-      "nameEn": "AC Russian 1943",
-      "nameAr": "AC روسي 1943",
-      "lineId": "RAILWAY_CAIRO_ASWAN",
-      "type": "AC Russian",
-      "directionEn": "Aswan → Cairo",
-      "directionAr": "أسوان ← القاهرة",
-      "departureTime": "10:30 PM",
-      "arrivalTime": "11:15 AM",
-      "durationMinutes": 765,
-      "fare": 999999.0,
-      "stationIds": [
-        "RAIL_ASWAN",
-        "RAIL_KOM_OMBO",
-        "RAIL_EDFU",
-        "RAIL_LUXOR",
-        "RAIL_QENA",
-        "RAIL_SOHAG",
-        "RAIL_ASYUT",
-        "RAIL_MINYA",
-        "RAIL_GIZA",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_1948",
-      "number": "1948",
-      "nameEn": "AC Russian 1948",
-      "nameAr": "AC روسي 1948",
-      "lineId": "RAILWAY_CAIRO_ASWAN",
-      "type": "AC Russian",
-      "directionEn": "Cairo → Aswan",
-      "directionAr": "القاهرة ← أسوان",
-      "departureTime": "12:35 AM",
-      "arrivalTime": "12:30 PM",
-      "durationMinutes": 715,
-      "fare": 999999.0,
-      "stationIds": [
-        "RAIL_CAIRO_RAMSES",
-        "RAIL_GIZA",
-        "RAIL_ASYUT",
-        "RAIL_SOHAG",
-        "RAIL_QENA",
-        "RAIL_LUXOR",
-        "RAIL_EDFU",
-        "RAIL_KOM_OMBO",
-        "RAIL_ASWAN"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_1949",
-      "number": "1949",
-      "nameEn": "AC Russian 1949",
-      "nameAr": "AC روسي 1949",
-      "lineId": "RAILWAY_CAIRO_ASWAN",
-      "type": "AC Russian",
-      "directionEn": "Aswan → Cairo",
-      "directionAr": "أسوان ← القاهرة",
-      "departureTime": "9:30 PM",
-      "arrivalTime": "10:25 AM",
-      "durationMinutes": 775,
-      "fare": 999999.0,
-      "stationIds": [
-        "RAIL_ASWAN",
-        "RAIL_KOM_OMBO",
-        "RAIL_EDFU",
-        "RAIL_ESNA",
-        "RAIL_LUXOR",
-        "RAIL_QENA",
-        "RAIL_GIRGA",
-        "RAIL_SOHAG",
-        "RAIL_ASYUT",
-        "RAIL_MINYA",
-        "RAIL_BENI_SUEF",
-        "RAIL_GIZA",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
@@ -3258,56 +3175,6 @@
         "RAIL_SOHAG",
         "RAIL_ASYUT",
         "RAIL_MINYA",
-        "RAIL_GIZA",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_2040",
-      "number": "2040",
-      "nameEn": "Talgo 2040",
-      "nameAr": "تالجو 2040",
-      "lineId": "RAILWAY_CAIRO_ASWAN",
-      "type": "Talgo",
-      "directionEn": "Cairo → Aswan",
-      "directionAr": "القاهرة ← أسوان",
-      "departureTime": "8:20 PM",
-      "arrivalTime": "8:10 AM",
-      "durationMinutes": 710,
-      "fare": 999999.0,
-      "stationIds": [
-        "RAIL_CAIRO_RAMSES",
-        "RAIL_GIZA",
-        "RAIL_ASYUT",
-        "RAIL_SOHAG",
-        "RAIL_QENA",
-        "RAIL_LUXOR",
-        "RAIL_EDFU",
-        "RAIL_KOM_OMBO",
-        "RAIL_ASWAN"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_2041",
-      "number": "2041",
-      "nameEn": "Talgo 2041",
-      "nameAr": "تالجو 2041",
-      "lineId": "RAILWAY_CAIRO_ASWAN",
-      "type": "Talgo",
-      "directionEn": "Aswan → Cairo",
-      "directionAr": "أسوان ← القاهرة",
-      "departureTime": "7:20 PM",
-      "arrivalTime": "7:15 AM",
-      "durationMinutes": 715,
-      "fare": 999999.0,
-      "stationIds": [
-        "RAIL_ASWAN",
-        "RAIL_KOM_OMBO",
-        "RAIL_EDFU",
-        "RAIL_LUXOR",
-        "RAIL_QENA",
-        "RAIL_SOHAG",
-        "RAIL_ASYUT",
         "RAIL_GIZA",
         "RAIL_CAIRO_RAMSES"
       ]
@@ -6062,6 +5929,42 @@
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
         "RAIL_TANTA"
+      ]
+    },
+    {
+      "id": "RAIL_TRAIN_773-772",
+      "number": "773-772",
+      "nameEn": "Sleep + AC Spanish 773-772",
+      "nameAr": "Sleep + AC Spanish 773-772",
+      "lineId": "RAILWAY_CAIRO_TANTA",
+      "type": "Sleep + AC Spanish",
+      "directionEn": "Cairo → Tanta",
+      "directionAr": "القاهرة ← طنطا",
+      "departureTime": "10:05 PM",
+      "arrivalTime": "11:13 PM",
+      "durationMinutes": 68,
+      "fare": 110.0,
+      "stationIds": [
+        "RAIL_CAIRO_RAMSES",
+        "RAIL_TANTA"
+      ]
+    },
+    {
+      "id": "RAIL_TRAIN_775-774",
+      "number": "775-774",
+      "nameEn": "AC Spanish 775-774",
+      "nameAr": "مكيف إسباني 775-774",
+      "lineId": "RAILWAY_CAIRO_TANTA",
+      "type": "AC Spanish",
+      "directionEn": "Tanta → Cairo",
+      "directionAr": "طنطا ← القاهرة",
+      "departureTime": "4:27 AM",
+      "arrivalTime": "5:35 AM",
+      "durationMinutes": 68,
+      "fare": 110.0,
+      "stationIds": [
+        "RAIL_TANTA",
+        "RAIL_CAIRO_RAMSES"
       ]
     },
     {

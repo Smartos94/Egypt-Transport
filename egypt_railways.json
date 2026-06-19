@@ -1,7 +1,7 @@
 {
   "dataVersion": 2,
   "version": "6.4",
-  "lastUpdated": "2026-06-18",
+  "lastUpdated": "2026-06-19",
   "source": "egypttrains.com (live scrape of Egyptian National Railways schedules)",
   "trains": [
     {
@@ -2800,57 +2800,6 @@
         "RAIL_ASYUT",
         "RAIL_GIZA",
         "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_1931",
-      "number": "1931",
-      "nameEn": "AC Spanish 1931",
-      "nameAr": "مكيف إسباني 1931",
-      "lineId": "RAILWAY_CAIRO_ASWAN",
-      "type": "AC Spanish",
-      "directionEn": "Aswan → Cairo",
-      "directionAr": "أسوان ← القاهرة",
-      "departureTime": "7:55 PM",
-      "arrivalTime": "7:50 AM",
-      "durationMinutes": 715,
-      "fare": 999999.0,
-      "stationIds": [
-        "RAIL_ASWAN",
-        "RAIL_KOM_OMBO",
-        "RAIL_EDFU",
-        "RAIL_LUXOR",
-        "RAIL_QENA",
-        "RAIL_SOHAG",
-        "RAIL_ASYUT",
-        "RAIL_GIZA",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_1938",
-      "number": "1938",
-      "nameEn": "Premium + AC Spanish 1938",
-      "nameAr": "Premium + AC Spanish 1938",
-      "lineId": "RAILWAY_CAIRO_ASWAN",
-      "type": "Premium + AC Spanish",
-      "directionEn": "Cairo → Aswan",
-      "directionAr": "القاهرة ← أسوان",
-      "departureTime": "9:50 PM",
-      "arrivalTime": "10:15 AM",
-      "durationMinutes": 745,
-      "fare": 280.0,
-      "stationIds": [
-        "RAIL_CAIRO_RAMSES",
-        "RAIL_GIZA",
-        "RAIL_ASYUT",
-        "RAIL_SOHAG",
-        "RAIL_QENA",
-        "RAIL_LUXOR",
-        "RAIL_ESNA",
-        "RAIL_EDFU",
-        "RAIL_KOM_OMBO",
-        "RAIL_ASWAN"
       ]
     },
     {

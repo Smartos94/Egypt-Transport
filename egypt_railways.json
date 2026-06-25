@@ -4623,7 +4623,7 @@
       "departureTime": "6:35 AM",
       "arrivalTime": "8:55 AM",
       "durationMinutes": 140,
-      "fare": 70.0,
+      "fare": 100.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_CAIRO_RAMSES"
@@ -4641,7 +4641,7 @@
       "departureTime": "5:10 PM",
       "arrivalTime": "7:30 PM",
       "durationMinutes": 140,
-      "fare": 70.0,
+      "fare": 100.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MANSOURA"

@@ -1,7 +1,7 @@
 {
   "dataVersion": 2,
   "version": "6.4",
-  "lastUpdated": "2026-06-30",
+  "lastUpdated": "2026-07-01",
   "source": "egypttrains.com (live scrape of Egyptian National Railways schedules)",
   "trains": [
     {
@@ -16,7 +16,7 @@
       "departureTime": "3:45 PM",
       "arrivalTime": "6:05 PM",
       "durationMinutes": 140,
-      "fare": 40.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA"
@@ -34,7 +34,7 @@
       "departureTime": "12:50 PM",
       "arrivalTime": "3:15 PM",
       "durationMinutes": 145,
-      "fare": 40.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_GIZA",
         "RAIL_CAIRO_RAMSES"
@@ -52,7 +52,7 @@
       "departureTime": "6:30 AM",
       "arrivalTime": "10:20 AM",
       "durationMinutes": 230,
-      "fare": 45.0,
+      "fare": 55.0,
       "stationIds": [
         "RAIL_ISMAILIA",
         "RAIL_ZAGAZIG",
@@ -72,7 +72,7 @@
       "departureTime": "7:25 AM",
       "arrivalTime": "11:00 AM",
       "durationMinutes": 215,
-      "fare": 70.0,
+      "fare": 80.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QAHA",
@@ -93,7 +93,7 @@
       "departureTime": "4:30 AM",
       "arrivalTime": "7:45 AM",
       "durationMinutes": 195,
-      "fare": 40.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_GIZA",
         "RAIL_CAIRO_RAMSES"
@@ -111,7 +111,7 @@
       "departureTime": "2:05 PM",
       "arrivalTime": "4:40 PM",
       "durationMinutes": 155,
-      "fare": 17.0,
+      "fare": 25.0,
       "stationIds": [
         "RAIL_ZAGAZIG",
         "RAIL_SHIBIN_EL_QANATER",
@@ -130,7 +130,7 @@
       "departureTime": "8:45 AM",
       "arrivalTime": "12:15 PM",
       "durationMinutes": 210,
-      "fare": 40.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA"
@@ -148,7 +148,7 @@
       "departureTime": "5:30 AM",
       "arrivalTime": "7:50 AM",
       "durationMinutes": 140,
-      "fare": 17.0,
+      "fare": 25.0,
       "stationIds": [
         "RAIL_ZAGAZIG",
         "RAIL_SHIBIN_EL_QANATER",
@@ -167,7 +167,7 @@
       "departureTime": "3:40 PM",
       "arrivalTime": "5:40 PM",
       "durationMinutes": 120,
-      "fare": 17.0,
+      "fare": 25.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -186,7 +186,7 @@
       "departureTime": "4:00 AM",
       "arrivalTime": "6:25 AM",
       "durationMinutes": 145,
-      "fare": 17.0,
+      "fare": 25.0,
       "stationIds": [
         "RAIL_ZAGAZIG",
         "RAIL_SHIBIN_EL_QANATER",
@@ -205,7 +205,7 @@
       "departureTime": "5:00 AM",
       "arrivalTime": "7:25 AM",
       "durationMinutes": 145,
-      "fare": 17.0,
+      "fare": 25.0,
       "stationIds": [
         "RAIL_ZAGAZIG",
         "RAIL_SHIBIN_EL_QANATER",
@@ -224,7 +224,7 @@
       "departureTime": "2:25 PM",
       "arrivalTime": "4:55 PM",
       "durationMinutes": 150,
-      "fare": 17.0,
+      "fare": 25.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -243,7 +243,7 @@
       "departureTime": "7:30 PM",
       "arrivalTime": "10:05 PM",
       "durationMinutes": 155,
-      "fare": 17.0,
+      "fare": 25.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -262,7 +262,7 @@
       "departureTime": "10:10 PM",
       "arrivalTime": "12:30 AM",
       "durationMinutes": 140,
-      "fare": 17.0,
+      "fare": 25.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -281,7 +281,7 @@
       "departureTime": "5:00 AM",
       "arrivalTime": "10:00 AM",
       "durationMinutes": 300,
-      "fare": 65.0,
+      "fare": 75.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_ZAGAZIG",
@@ -301,7 +301,7 @@
       "departureTime": "3:00 PM",
       "arrivalTime": "8:15 PM",
       "durationMinutes": 315,
-      "fare": 65.0,
+      "fare": 75.0,
       "stationIds": [
         "RAIL_SUEZ",
         "RAIL_ISMAILIA",
@@ -323,7 +323,7 @@
       "departureTime": "5:55 AM",
       "arrivalTime": "7:30 AM",
       "durationMinutes": 95,
-      "fare": 60.0,
+      "fare": 70.0,
       "stationIds": [
         "RAIL_ZAGAZIG",
         "RAIL_CAIRO_RAMSES"
@@ -341,7 +341,7 @@
       "departureTime": "5:00 AM",
       "arrivalTime": "8:00 AM",
       "durationMinutes": 180,
-      "fare": 65.0,
+      "fare": 75.0,
       "stationIds": [
         "RAIL_ISMAILIA",
         "RAIL_ZAGAZIG",
@@ -361,7 +361,7 @@
       "departureTime": "12:40 PM",
       "arrivalTime": "3:50 PM",
       "durationMinutes": 190,
-      "fare": 65.0,
+      "fare": 75.0,
       "stationIds": [
         "RAIL_ISMAILIA",
         "RAIL_ZAGAZIG",
@@ -380,7 +380,7 @@
       "departureTime": "3:40 PM",
       "arrivalTime": "5:25 PM",
       "durationMinutes": 105,
-      "fare": 60.0,
+      "fare": 70.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TOUKH",
@@ -399,7 +399,7 @@
       "departureTime": "7:50 PM",
       "arrivalTime": "10:50 PM",
       "durationMinutes": 180,
-      "fare": 70.0,
+      "fare": 80.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QAHA",
@@ -420,7 +420,7 @@
       "departureTime": "5:40 PM",
       "arrivalTime": "8:35 PM",
       "durationMinutes": 175,
-      "fare": 70.0,
+      "fare": 80.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_ZAGAZIG",
@@ -439,7 +439,7 @@
       "departureTime": "9:35 PM",
       "arrivalTime": "12:40 AM",
       "durationMinutes": 185,
-      "fare": 65.0,
+      "fare": 75.0,
       "stationIds": [
         "RAIL_ISMAILIA",
         "RAIL_ZAGAZIG",
@@ -458,7 +458,7 @@
       "departureTime": "9:45 PM",
       "arrivalTime": "12:50 AM",
       "durationMinutes": 185,
-      "fare": 45.0,
+      "fare": 55.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TOUKH",
@@ -478,7 +478,7 @@
       "departureTime": "4:50 AM",
       "arrivalTime": "9:00 AM",
       "durationMinutes": 250,
-      "fare": 90.0,
+      "fare": 105.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_ZAGAZIG",
@@ -499,7 +499,7 @@
       "departureTime": "3:15 PM",
       "arrivalTime": "7:20 PM",
       "durationMinutes": 245,
-      "fare": 90.0,
+      "fare": 105.0,
       "stationIds": [
         "RAIL_PORT_SAID",
         "RAIL_QANTARA_GHARB",
@@ -520,7 +520,7 @@
       "departureTime": "6:10 AM",
       "arrivalTime": "10:20 AM",
       "durationMinutes": 250,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_ZAGAZIG",
@@ -541,7 +541,7 @@
       "departureTime": "11:30 AM",
       "arrivalTime": "4:05 PM",
       "durationMinutes": 275,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QAHA",
@@ -564,7 +564,7 @@
       "departureTime": "5:30 AM",
       "arrivalTime": "10:00 AM",
       "durationMinutes": 270,
-      "fare": 90.0,
+      "fare": 105.0,
       "stationIds": [
         "RAIL_PORT_SAID",
         "RAIL_QANTARA_GHARB",
@@ -585,7 +585,7 @@
       "departureTime": "2:40 PM",
       "arrivalTime": "7:05 PM",
       "durationMinutes": 265,
-      "fare": 90.0,
+      "fare": 105.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QAHA",
@@ -607,7 +607,7 @@
       "departureTime": "1:20 PM",
       "arrivalTime": "5:50 PM",
       "durationMinutes": 270,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_PORT_SAID",
         "RAIL_QANTARA_GHARB",
@@ -628,7 +628,7 @@
       "departureTime": "6:35 PM",
       "arrivalTime": "11:05 PM",
       "durationMinutes": 270,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_PORT_SAID",
         "RAIL_QANTARA_GHARB",
@@ -688,7 +688,7 @@
       "departureTime": "3:05 AM",
       "arrivalTime": "6:55 AM",
       "durationMinutes": 230,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -713,7 +713,7 @@
       "departureTime": "8:35 AM",
       "arrivalTime": "12:10 PM",
       "durationMinutes": 215,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -737,7 +737,7 @@
       "departureTime": "7:30 PM",
       "arrivalTime": "10:15 PM",
       "durationMinutes": 165,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -759,7 +759,7 @@
       "departureTime": "7:00 AM",
       "arrivalTime": "9:55 AM",
       "durationMinutes": 175,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
@@ -781,7 +781,7 @@
       "departureTime": "5:10 PM",
       "arrivalTime": "10:20 PM",
       "durationMinutes": 310,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -804,7 +804,7 @@
       "departureTime": "5:00 AM",
       "arrivalTime": "9:45 AM",
       "durationMinutes": 285,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
@@ -827,7 +827,7 @@
       "departureTime": "6:45 AM",
       "arrivalTime": "9:23 AM",
       "durationMinutes": 158,
-      "fare": 40.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -848,7 +848,7 @@
       "departureTime": "2:30 PM",
       "arrivalTime": "5:20 PM",
       "durationMinutes": 170,
-      "fare": 40.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_DAMANHOUR",
         "RAIL_ITAY_BARUD",
@@ -870,7 +870,7 @@
       "departureTime": "10:10 AM",
       "arrivalTime": "2:25 PM",
       "durationMinutes": 255,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QAHA",
@@ -896,7 +896,7 @@
       "departureTime": "9:25 AM",
       "arrivalTime": "1:35 PM",
       "durationMinutes": 250,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -922,7 +922,7 @@
       "departureTime": "10:20 AM",
       "arrivalTime": "2:20 PM",
       "durationMinutes": 240,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -947,7 +947,7 @@
       "departureTime": "8:00 AM",
       "arrivalTime": "11:00 AM",
       "durationMinutes": 180,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -970,7 +970,7 @@
       "departureTime": "12:15 PM",
       "arrivalTime": "4:00 PM",
       "durationMinutes": 225,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -994,7 +994,7 @@
       "departureTime": "9:20 PM",
       "arrivalTime": "12:25 AM",
       "durationMinutes": 185,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
@@ -1015,7 +1015,7 @@
       "departureTime": "1:10 PM",
       "arrivalTime": "5:15 PM",
       "durationMinutes": 245,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1041,7 +1041,7 @@
       "departureTime": "5:00 AM",
       "arrivalTime": "8:20 AM",
       "durationMinutes": 200,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1065,7 +1065,7 @@
       "departureTime": "11:10 PM",
       "arrivalTime": "1:10 AM",
       "durationMinutes": 120,
-      "fare": 65.0,
+      "fare": 75.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
@@ -1084,7 +1084,7 @@
       "departureTime": "7:03 PM",
       "arrivalTime": "8:55 PM",
       "durationMinutes": 112,
-      "fare": 60.0,
+      "fare": 70.0,
       "stationIds": [
         "RAIL_DAMANHOUR",
         "RAIL_TANTA",
@@ -1103,7 +1103,7 @@
       "departureTime": "3:40 PM",
       "arrivalTime": "7:00 PM",
       "durationMinutes": 200,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1124,7 +1124,7 @@
       "departureTime": "2:20 AM",
       "arrivalTime": "6:30 AM",
       "durationMinutes": 250,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1264,7 +1264,7 @@
       "departureTime": "3:25 PM",
       "arrivalTime": "7:15 PM",
       "durationMinutes": 230,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TOUKH",
@@ -1289,7 +1289,7 @@
       "departureTime": "4:30 PM",
       "arrivalTime": "8:50 PM",
       "durationMinutes": 260,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QAHA",
@@ -1315,7 +1315,7 @@
       "departureTime": "2:30 PM",
       "arrivalTime": "6:40 PM",
       "durationMinutes": 250,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1341,7 +1341,7 @@
       "departureTime": "8:20 PM",
       "arrivalTime": "12:15 AM",
       "durationMinutes": 235,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1367,7 +1367,7 @@
       "departureTime": "9:30 PM",
       "arrivalTime": "1:35 AM",
       "durationMinutes": 245,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -1391,7 +1391,7 @@
       "departureTime": "7:10 PM",
       "arrivalTime": "9:55 PM",
       "durationMinutes": 165,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
@@ -1412,7 +1412,7 @@
       "departureTime": "5:00 PM",
       "arrivalTime": "7:55 PM",
       "durationMinutes": 175,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
@@ -1433,7 +1433,7 @@
       "departureTime": "9:15 AM",
       "arrivalTime": "12:10 PM",
       "durationMinutes": 175,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1456,7 +1456,7 @@
       "departureTime": "8:30 PM",
       "arrivalTime": "12:15 AM",
       "durationMinutes": 225,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TOUKH",
@@ -1481,7 +1481,7 @@
       "departureTime": "6:20 PM",
       "arrivalTime": "10:25 PM",
       "durationMinutes": 245,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1505,7 +1505,7 @@
       "departureTime": "6:20 AM",
       "arrivalTime": "10:15 AM",
       "durationMinutes": 235,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QAHA",
@@ -1531,7 +1531,7 @@
       "departureTime": "5:10 AM",
       "arrivalTime": "9:15 AM",
       "durationMinutes": 245,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1557,7 +1557,7 @@
       "departureTime": "8:15 AM",
       "arrivalTime": "11:20 AM",
       "durationMinutes": 185,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1578,7 +1578,7 @@
       "departureTime": "8:10 AM",
       "arrivalTime": "11:15 AM",
       "durationMinutes": 185,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
@@ -1599,7 +1599,7 @@
       "departureTime": "6:00 AM",
       "arrivalTime": "9:25 AM",
       "durationMinutes": 205,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1623,7 +1623,7 @@
       "departureTime": "6:00 AM",
       "arrivalTime": "9:30 AM",
       "durationMinutes": 210,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -1647,7 +1647,7 @@
       "departureTime": "9:00 AM",
       "arrivalTime": "11:30 AM",
       "durationMinutes": 150,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_ALEX_SIDI_GABER",
@@ -1666,7 +1666,7 @@
       "departureTime": "7:15 AM",
       "arrivalTime": "9:45 AM",
       "durationMinutes": 150,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1706,7 +1706,7 @@
       "departureTime": "10:00 AM",
       "arrivalTime": "1:05 PM",
       "durationMinutes": 185,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
@@ -1727,7 +1727,7 @@
       "departureTime": "11:00 AM",
       "arrivalTime": "1:55 PM",
       "durationMinutes": 175,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1747,7 +1747,7 @@
       "departureTime": "12:00 PM",
       "arrivalTime": "2:50 PM",
       "durationMinutes": 170,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
@@ -1768,7 +1768,7 @@
       "departureTime": "1:00 PM",
       "arrivalTime": "4:20 PM",
       "durationMinutes": 200,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1792,7 +1792,7 @@
       "departureTime": "3:10 PM",
       "arrivalTime": "6:15 PM",
       "durationMinutes": 185,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
@@ -1813,7 +1813,7 @@
       "departureTime": "3:00 PM",
       "arrivalTime": "5:30 PM",
       "durationMinutes": 150,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1832,7 +1832,7 @@
       "departureTime": "3:00 PM",
       "arrivalTime": "5:30 PM",
       "durationMinutes": 150,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_ALEX_SIDI_GABER",
@@ -1851,7 +1851,7 @@
       "departureTime": "2:25 PM",
       "arrivalTime": "6:05 PM",
       "durationMinutes": 220,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -1875,7 +1875,7 @@
       "departureTime": "6:00 PM",
       "arrivalTime": "8:35 PM",
       "durationMinutes": 155,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
@@ -1895,7 +1895,7 @@
       "departureTime": "3:30 PM",
       "arrivalTime": "6:50 PM",
       "durationMinutes": 200,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1917,7 +1917,7 @@
       "departureTime": "4:00 PM",
       "arrivalTime": "7:25 PM",
       "durationMinutes": 205,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -1961,7 +1961,7 @@
       "departureTime": "7:00 PM",
       "arrivalTime": "9:50 PM",
       "durationMinutes": 170,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_ALEX_MISR",
         "RAIL_ALEX_SIDI_GABER",
@@ -1981,7 +1981,7 @@
       "departureTime": "8:15 PM",
       "arrivalTime": "11:35 PM",
       "durationMinutes": 200,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -2004,7 +2004,7 @@
       "departureTime": "5:50 AM",
       "arrivalTime": "7:55 AM",
       "durationMinutes": 125,
-      "fare": 65.0,
+      "fare": 75.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
@@ -2023,7 +2023,7 @@
       "departureTime": "2:21 AM",
       "arrivalTime": "4:15 AM",
       "durationMinutes": 114,
-      "fare": 60.0,
+      "fare": 70.0,
       "stationIds": [
         "RAIL_DAMANHOUR",
         "RAIL_TANTA",
@@ -2042,7 +2042,7 @@
       "departureTime": "9:30 AM",
       "arrivalTime": "11:10 PM",
       "durationMinutes": 820,
-      "fare": 220.0,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -2074,7 +2074,7 @@
       "departureTime": "6:00 AM",
       "arrivalTime": "1:05 PM",
       "durationMinutes": 425,
-      "fare": 85.0,
+      "fare": 100.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -2101,7 +2101,7 @@
       "departureTime": "7:35 PM",
       "arrivalTime": "2:35 AM",
       "durationMinutes": 420,
-      "fare": 85.0,
+      "fare": 100.0,
       "stationIds": [
         "RAIL_SOHAG",
         "RAIL_MARAGHA",
@@ -2128,7 +2128,7 @@
       "departureTime": "11:15 PM",
       "arrivalTime": "12:30 PM",
       "durationMinutes": 795,
-      "fare": 130.0,
+      "fare": 150.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -2160,7 +2160,7 @@
       "departureTime": "7:20 PM",
       "arrivalTime": "8:10 AM",
       "durationMinutes": 770,
-      "fare": 220.0,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -2193,7 +2193,7 @@
       "departureTime": "12:05 AM",
       "arrivalTime": "2:20 PM",
       "durationMinutes": 855,
-      "fare": 220.0,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -2228,7 +2228,7 @@
       "departureTime": "11:20 PM",
       "arrivalTime": "1:20 PM",
       "durationMinutes": 840,
-      "fare": 220.0,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -2262,7 +2262,7 @@
       "departureTime": "8:20 PM",
       "arrivalTime": "11:15 AM",
       "durationMinutes": 895,
-      "fare": 220.0,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -2296,7 +2296,7 @@
       "departureTime": "1:30 PM",
       "arrivalTime": "4:00 AM",
       "durationMinutes": 870,
-      "fare": 130.0,
+      "fare": 150.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -2330,7 +2330,7 @@
       "departureTime": "6:50 PM",
       "arrivalTime": "8:55 AM",
       "durationMinutes": 845,
-      "fare": 130.0,
+      "fare": 150.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -2362,7 +2362,7 @@
       "departureTime": "5:30 PM",
       "arrivalTime": "8:00 AM",
       "durationMinutes": 870,
-      "fare": 130.0,
+      "fare": 150.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -2515,7 +2515,7 @@
       "departureTime": "2:15 PM",
       "arrivalTime": "9:35 PM",
       "durationMinutes": 440,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -2540,7 +2540,7 @@
       "departureTime": "12:30 PM",
       "arrivalTime": "3:45 AM",
       "durationMinutes": 915,
-      "fare": 130.0,
+      "fare": 150.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -2574,7 +2574,7 @@
       "departureTime": "3:30 PM",
       "arrivalTime": "7:40 AM",
       "durationMinutes": 970,
-      "fare": 130.0,
+      "fare": 150.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -2607,7 +2607,7 @@
       "departureTime": "6:00 AM",
       "arrivalTime": "1:30 PM",
       "durationMinutes": 450,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_ASYUT",
         "RAIL_MANFALUT",
@@ -2632,7 +2632,7 @@
       "departureTime": "12:05 AM",
       "arrivalTime": "8:45 AM",
       "durationMinutes": 520,
-      "fare": 160.0,
+      "fare": 180.0,
       "stationIds": [
         "RAIL_SOHAG",
         "RAIL_MARAGHA",
@@ -2659,7 +2659,7 @@
       "departureTime": "1:30 PM",
       "arrivalTime": "9:40 PM",
       "durationMinutes": 490,
-      "fare": 160.0,
+      "fare": 180.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -2685,7 +2685,7 @@
       "departureTime": "6:20 PM",
       "arrivalTime": "10:55 AM",
       "durationMinutes": 995,
-      "fare": 130.0,
+      "fare": 150.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -2720,7 +2720,7 @@
       "departureTime": "6:00 PM",
       "arrivalTime": "10:40 AM",
       "durationMinutes": 1000,
-      "fare": 130.0,
+      "fare": 150.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -2756,7 +2756,7 @@
       "departureTime": "12:20 AM",
       "arrivalTime": "1:20 PM",
       "durationMinutes": 780,
-      "fare": 280.0,
+      "fare": 320.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -2785,7 +2785,7 @@
       "departureTime": "5:00 PM",
       "arrivalTime": "5:55 AM",
       "durationMinutes": 775,
-      "fare": 220.0,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -2869,7 +2869,7 @@
       "departureTime": "11:00 PM",
       "arrivalTime": "11:45 AM",
       "durationMinutes": 765,
-      "fare": 280.0,
+      "fare": 320.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -2895,7 +2895,7 @@
       "departureTime": "6:10 PM",
       "arrivalTime": "6:40 AM",
       "durationMinutes": 750,
-      "fare": 280.0,
+      "fare": 320.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -2921,7 +2921,7 @@
       "departureTime": "10:00 AM",
       "arrivalTime": "10:55 PM",
       "durationMinutes": 775,
-      "fare": 280.0,
+      "fare": 320.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -2948,7 +2948,7 @@
       "departureTime": "5:15 AM",
       "arrivalTime": "6:05 PM",
       "durationMinutes": 770,
-      "fare": 280.0,
+      "fare": 320.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -2976,7 +2976,7 @@
       "departureTime": "5:30 PM",
       "arrivalTime": "6:20 AM",
       "durationMinutes": 770,
-      "fare": 220.0,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -3006,7 +3006,7 @@
       "departureTime": "2:05 PM",
       "arrivalTime": "3:10 AM",
       "durationMinutes": 785,
-      "fare": 220.0,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -3140,7 +3140,7 @@
       "departureTime": "12:50 AM",
       "arrivalTime": "1:30 PM",
       "durationMinutes": 760,
-      "fare": 220.0,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -3168,7 +3168,7 @@
       "departureTime": "10:00 AM",
       "arrivalTime": "10:35 PM",
       "durationMinutes": 755,
-      "fare": 220.0,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -3197,7 +3197,7 @@
       "departureTime": "8:40 AM",
       "arrivalTime": "10:35 PM",
       "durationMinutes": 835,
-      "fare": 220.0,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -3230,7 +3230,7 @@
       "departureTime": "4:10 AM",
       "arrivalTime": "4:45 PM",
       "durationMinutes": 755,
-      "fare": 220.0,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -3258,7 +3258,7 @@
       "departureTime": "1:30 AM",
       "arrivalTime": "7:25 AM",
       "durationMinutes": 355,
-      "fare": 135.0,
+      "fare": 155.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -3283,7 +3283,7 @@
       "departureTime": "12:15 PM",
       "arrivalTime": "7:05 PM",
       "durationMinutes": 410,
-      "fare": 140.0,
+      "fare": 160.0,
       "stationIds": [
         "RAIL_ASYUT",
         "RAIL_MANFALUT",
@@ -3307,7 +3307,7 @@
       "departureTime": "9:00 AM",
       "arrivalTime": "2:05 AM",
       "durationMinutes": 1025,
-      "fare": 130.0,
+      "fare": 150.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -3344,7 +3344,7 @@
       "departureTime": "4:30 AM",
       "arrivalTime": "10:25 PM",
       "durationMinutes": 1075,
-      "fare": 220.0,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -3381,7 +3381,7 @@
       "departureTime": "12:10 AM",
       "arrivalTime": "5:15 PM",
       "durationMinutes": 1025,
-      "fare": 130.0,
+      "fare": 150.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -3418,7 +3418,7 @@
       "departureTime": "3:20 AM",
       "arrivalTime": "9:25 AM",
       "durationMinutes": 365,
-      "fare": 140.0,
+      "fare": 160.0,
       "stationIds": [
         "RAIL_ASYUT",
         "RAIL_MANFALUT",
@@ -3442,7 +3442,7 @@
       "departureTime": "5:45 PM",
       "arrivalTime": "11:55 PM",
       "durationMinutes": 370,
-      "fare": 135.0,
+      "fare": 155.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -3466,7 +3466,7 @@
       "departureTime": "9:25 PM",
       "arrivalTime": "12:10 PM",
       "durationMinutes": 885,
-      "fare": 280.0,
+      "fare": 320.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -3500,7 +3500,7 @@
       "departureTime": "9:05 PM",
       "arrivalTime": "11:05 AM",
       "durationMinutes": 840,
-      "fare": 280.0,
+      "fare": 320.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -3534,7 +3534,7 @@
       "departureTime": "11:30 PM",
       "arrivalTime": "6:35 AM",
       "durationMinutes": 425,
-      "fare": 160.0,
+      "fare": 180.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -3559,7 +3559,7 @@
       "departureTime": "11:00 AM",
       "arrivalTime": "5:45 PM",
       "durationMinutes": 405,
-      "fare": 160.0,
+      "fare": 180.0,
       "stationIds": [
         "RAIL_SOHAG",
         "RAIL_TAHTA",
@@ -3584,7 +3584,7 @@
       "departureTime": "10:10 PM",
       "arrivalTime": "1:10 PM",
       "durationMinutes": 900,
-      "fare": 130.0,
+      "fare": 150.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -3619,7 +3619,7 @@
       "departureTime": "11:30 PM",
       "arrivalTime": "2:55 PM",
       "durationMinutes": 925,
-      "fare": 130.0,
+      "fare": 150.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -3718,7 +3718,7 @@
       "departureTime": "7:35 AM",
       "arrivalTime": "11:05 AM",
       "durationMinutes": 210,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -3739,7 +3739,7 @@
       "departureTime": "2:00 PM",
       "arrivalTime": "5:35 PM",
       "durationMinutes": 215,
-      "fare": 150.0,
+      "fare": 170.0,
       "stationIds": [
         "RAIL_MINYA",
         "RAIL_MAGHAGHA",
@@ -3760,7 +3760,7 @@
       "departureTime": "5:20 AM",
       "arrivalTime": "1:40 PM",
       "durationMinutes": 500,
-      "fare": 200.0,
+      "fare": 230.0,
       "stationIds": [
         "RAIL_SOHAG",
         "RAIL_MARAGHA",
@@ -3789,7 +3789,7 @@
       "departureTime": "4:20 PM",
       "arrivalTime": "11:25 PM",
       "durationMinutes": 425,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -3814,7 +3814,7 @@
       "departureTime": "2:30 AM",
       "arrivalTime": "9:15 AM",
       "durationMinutes": 405,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_ASYUT",
         "RAIL_MANFALUT",
@@ -3839,7 +3839,7 @@
       "departureTime": "6:45 AM",
       "arrivalTime": "12:55 PM",
       "durationMinutes": 370,
-      "fare": 135.0,
+      "fare": 155.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -3864,7 +3864,7 @@
       "departureTime": "3:00 PM",
       "arrivalTime": "9:30 PM",
       "durationMinutes": 390,
-      "fare": 140.0,
+      "fare": 160.0,
       "stationIds": [
         "RAIL_ASYUT",
         "RAIL_MANFALUT",
@@ -3889,7 +3889,7 @@
       "departureTime": "8:00 AM",
       "arrivalTime": "10:25 PM",
       "durationMinutes": 865,
-      "fare": 280.0,
+      "fare": 320.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -3922,7 +3922,7 @@
       "departureTime": "5:30 AM",
       "arrivalTime": "7:40 PM",
       "durationMinutes": 850,
-      "fare": 280.0,
+      "fare": 320.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -3955,7 +3955,7 @@
       "departureTime": "12:00 PM",
       "arrivalTime": "2:25 AM",
       "durationMinutes": 865,
-      "fare": 280.0,
+      "fare": 320.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -3988,7 +3988,7 @@
       "departureTime": "7:30 AM",
       "arrivalTime": "9:45 PM",
       "durationMinutes": 855,
-      "fare": 280.0,
+      "fare": 320.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -4021,7 +4021,7 @@
       "departureTime": "7:10 PM",
       "arrivalTime": "7:50 AM",
       "durationMinutes": 760,
-      "fare": 220.0,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -4050,7 +4050,7 @@
       "departureTime": "11:00 PM",
       "arrivalTime": "11:40 AM",
       "durationMinutes": 760,
-      "fare": 280.0,
+      "fare": 320.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -4079,7 +4079,7 @@
       "departureTime": "4:00 PM",
       "arrivalTime": "12:25 AM",
       "durationMinutes": 505,
-      "fare": 200.0,
+      "fare": 230.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -4108,7 +4108,7 @@
       "departureTime": "3:00 PM",
       "arrivalTime": "9:55 PM",
       "durationMinutes": 415,
-      "fare": 200.0,
+      "fare": 230.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -4129,7 +4129,7 @@
       "departureTime": "3:30 AM",
       "arrivalTime": "10:20 AM",
       "durationMinutes": 410,
-      "fare": 200.0,
+      "fare": 230.0,
       "stationIds": [
         "RAIL_SOHAG",
         "RAIL_ASYUT",
@@ -4150,7 +4150,7 @@
       "departureTime": "10:00 PM",
       "arrivalTime": "11:30 AM",
       "durationMinutes": 810,
-      "fare": 280.0,
+      "fare": 320.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -4178,7 +4178,7 @@
       "departureTime": "8:45 PM",
       "arrivalTime": "9:55 AM",
       "durationMinutes": 790,
-      "fare": 280.0,
+      "fare": 320.0,
       "stationIds": [
         "RAIL_ASWAN",
         "RAIL_KOM_OMBO",
@@ -4206,7 +4206,7 @@
       "departureTime": "1:00 PM",
       "arrivalTime": "8:15 PM",
       "durationMinutes": 435,
-      "fare": 200.0,
+      "fare": 230.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -4231,7 +4231,7 @@
       "departureTime": "10:15 PM",
       "arrivalTime": "5:25 AM",
       "durationMinutes": 430,
-      "fare": 200.0,
+      "fare": 230.0,
       "stationIds": [
         "RAIL_SOHAG",
         "RAIL_TAHTA",
@@ -4256,7 +4256,7 @@
       "departureTime": "7:30 AM",
       "arrivalTime": "7:25 PM",
       "durationMinutes": 715,
-      "fare": 105.0,
+      "fare": 120.0,
       "stationIds": [
         "RAIL_LUXOR",
         "RAIL_QENA",
@@ -4288,7 +4288,7 @@
       "departureTime": "10:35 AM",
       "arrivalTime": "10:25 PM",
       "durationMinutes": 710,
-      "fare": 105.0,
+      "fare": 120.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -4320,7 +4320,7 @@
       "departureTime": "6:00 AM",
       "arrivalTime": "7:00 PM",
       "durationMinutes": 780,
-      "fare": 195.0,
+      "fare": 220.0,
       "stationIds": [
         "RAIL_LUXOR",
         "RAIL_QENA",
@@ -4353,7 +4353,7 @@
       "departureTime": "12:15 PM",
       "arrivalTime": "12:10 AM",
       "durationMinutes": 715,
-      "fare": 200.0,
+      "fare": 225.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -4386,7 +4386,7 @@
       "departureTime": "1:10 AM",
       "arrivalTime": "11:00 AM",
       "durationMinutes": 590,
-      "fare": 250.0,
+      "fare": 290.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -4413,7 +4413,7 @@
       "departureTime": "12:40 PM",
       "arrivalTime": "10:10 PM",
       "durationMinutes": 570,
-      "fare": 250.0,
+      "fare": 290.0,
       "stationIds": [
         "RAIL_LUXOR",
         "RAIL_QENA",
@@ -4440,7 +4440,7 @@
       "departureTime": "5:20 AM",
       "arrivalTime": "5:55 PM",
       "durationMinutes": 755,
-      "fare": 105.0,
+      "fare": 120.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -4473,7 +4473,7 @@
       "departureTime": "8:00 AM",
       "arrivalTime": "9:15 PM",
       "durationMinutes": 795,
-      "fare": 105.0,
+      "fare": 120.0,
       "stationIds": [
         "RAIL_LUXOR",
         "RAIL_QENA",
@@ -4506,7 +4506,7 @@
       "departureTime": "8:00 PM",
       "arrivalTime": "6:15 AM",
       "durationMinutes": 615,
-      "fare": 250.0,
+      "fare": 290.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -4534,7 +4534,7 @@
       "departureTime": "7:25 PM",
       "arrivalTime": "5:05 AM",
       "durationMinutes": 580,
-      "fare": 250.0,
+      "fare": 290.0,
       "stationIds": [
         "RAIL_LUXOR",
         "RAIL_QENA",
@@ -4562,7 +4562,7 @@
       "departureTime": "2:00 PM",
       "arrivalTime": "12:45 AM",
       "durationMinutes": 645,
-      "fare": 250.0,
+      "fare": 290.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -4592,7 +4592,7 @@
       "departureTime": "4:50 AM",
       "arrivalTime": "3:40 PM",
       "durationMinutes": 650,
-      "fare": 250.0,
+      "fare": 290.0,
       "stationIds": [
         "RAIL_LUXOR",
         "RAIL_QENA",
@@ -4623,7 +4623,7 @@
       "departureTime": "6:35 AM",
       "arrivalTime": "8:55 AM",
       "durationMinutes": 140,
-      "fare": 100.0,
+      "fare": 120.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_CAIRO_RAMSES"
@@ -4641,7 +4641,7 @@
       "departureTime": "5:10 PM",
       "arrivalTime": "7:30 PM",
       "durationMinutes": 140,
-      "fare": 100.0,
+      "fare": 120.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MANSOURA"
@@ -4659,7 +4659,7 @@
       "departureTime": "2:15 PM",
       "arrivalTime": "4:25 PM",
       "durationMinutes": 130,
-      "fare": 50.0,
+      "fare": 60.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MANSOURA"
@@ -4677,7 +4677,7 @@
       "departureTime": "5:00 AM",
       "arrivalTime": "7:35 AM",
       "durationMinutes": 155,
-      "fare": 50.0,
+      "fare": 60.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_BERKET_SABA",
@@ -4697,7 +4697,7 @@
       "departureTime": "12:00 PM",
       "arrivalTime": "3:25 PM",
       "durationMinutes": 205,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -4717,7 +4717,7 @@
       "departureTime": "7:10 AM",
       "arrivalTime": "11:00 AM",
       "durationMinutes": 230,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_ZAGAZIG",
@@ -4737,7 +4737,7 @@
       "departureTime": "4:00 PM",
       "arrivalTime": "7:30 PM",
       "durationMinutes": 210,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_ZAGAZIG",
@@ -4757,7 +4757,7 @@
       "departureTime": "8:40 PM",
       "arrivalTime": "11:59 PM",
       "durationMinutes": 199,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QAHA",
@@ -4778,7 +4778,7 @@
       "departureTime": "7:45 PM",
       "arrivalTime": "11:30 PM",
       "durationMinutes": 225,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_ZAGAZIG",
@@ -4798,7 +4798,7 @@
       "departureTime": "2:10 PM",
       "arrivalTime": "6:00 PM",
       "durationMinutes": 230,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -4818,7 +4818,7 @@
       "departureTime": "5:00 AM",
       "arrivalTime": "10:35 AM",
       "durationMinutes": 335,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -4838,7 +4838,7 @@
       "departureTime": "4:55 AM",
       "arrivalTime": "9:30 AM",
       "durationMinutes": 275,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_ZAGAZIG",
@@ -4858,7 +4858,7 @@
       "departureTime": "6:15 AM",
       "arrivalTime": "11:20 AM",
       "durationMinutes": 305,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -4878,7 +4878,7 @@
       "departureTime": "9:00 AM",
       "arrivalTime": "1:35 PM",
       "durationMinutes": 275,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_ZAGAZIG",
@@ -4898,7 +4898,7 @@
       "departureTime": "8:30 AM",
       "arrivalTime": "1:20 PM",
       "durationMinutes": 290,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -4918,7 +4918,7 @@
       "departureTime": "10:40 AM",
       "arrivalTime": "3:30 PM",
       "durationMinutes": 290,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_ZAGAZIG",
@@ -4938,7 +4938,7 @@
       "departureTime": "10:20 AM",
       "arrivalTime": "3:15 PM",
       "durationMinutes": 295,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -4958,7 +4958,7 @@
       "departureTime": "12:40 PM",
       "arrivalTime": "5:35 PM",
       "durationMinutes": 295,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_ZAGAZIG",
@@ -4978,7 +4978,7 @@
       "departureTime": "12:35 PM",
       "arrivalTime": "5:40 PM",
       "durationMinutes": 305,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -4998,7 +4998,7 @@
       "departureTime": "2:00 PM",
       "arrivalTime": "6:45 PM",
       "durationMinutes": 285,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_ZAGAZIG",
@@ -5018,7 +5018,7 @@
       "departureTime": "4:25 PM",
       "arrivalTime": "9:30 PM",
       "durationMinutes": 305,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_ZAGAZIG",
@@ -5038,7 +5038,7 @@
       "departureTime": "4:35 PM",
       "arrivalTime": "9:35 PM",
       "durationMinutes": 300,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -5058,7 +5058,7 @@
       "departureTime": "6:00 PM",
       "arrivalTime": "10:40 PM",
       "durationMinutes": 280,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_ZAGAZIG",
@@ -5078,7 +5078,7 @@
       "departureTime": "5:40 PM",
       "arrivalTime": "10:40 PM",
       "durationMinutes": 300,
-      "fare": 35.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -5098,7 +5098,7 @@
       "departureTime": "4:20 PM",
       "arrivalTime": "7:10 PM",
       "durationMinutes": 170,
-      "fare": 40.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -5119,7 +5119,7 @@
       "departureTime": "3:40 AM",
       "arrivalTime": "6:45 AM",
       "durationMinutes": 185,
-      "fare": 40.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_TANTA",
@@ -5142,7 +5142,7 @@
       "departureTime": "5:15 AM",
       "arrivalTime": "10:15 AM",
       "durationMinutes": 300,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QAHA",
@@ -5164,7 +5164,7 @@
       "departureTime": "5:35 AM",
       "arrivalTime": "8:45 AM",
       "durationMinutes": 190,
-      "fare": 50.0,
+      "fare": 60.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_TANTA",
@@ -5185,7 +5185,7 @@
       "departureTime": "1:10 PM",
       "arrivalTime": "4:10 PM",
       "durationMinutes": 180,
-      "fare": 50.0,
+      "fare": 60.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -5206,7 +5206,7 @@
       "departureTime": "6:00 AM",
       "arrivalTime": "10:15 AM",
       "durationMinutes": 255,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_DAMIETTA",
         "RAIL_MANSOURA",
@@ -5226,7 +5226,7 @@
       "departureTime": "7:15 AM",
       "arrivalTime": "11:30 AM",
       "durationMinutes": 255,
-      "fare": 90.0,
+      "fare": 110.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_BERKET_SABA",
@@ -5247,7 +5247,7 @@
       "departureTime": "1:15 PM",
       "arrivalTime": "6:10 PM",
       "durationMinutes": 295,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_DAMIETTA",
         "RAIL_MANSOURA",
@@ -5269,7 +5269,7 @@
       "departureTime": "9:30 AM",
       "arrivalTime": "1:50 PM",
       "durationMinutes": 260,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -5291,7 +5291,7 @@
       "departureTime": "7:15 PM",
       "arrivalTime": "11:50 PM",
       "durationMinutes": 275,
-      "fare": 55.0,
+      "fare": 65.0,
       "stationIds": [
         "RAIL_DAMIETTA",
         "RAIL_MANSOURA",
@@ -5313,7 +5313,7 @@
       "departureTime": "7:20 PM",
       "arrivalTime": "12:00 AM",
       "durationMinutes": 280,
-      "fare": 80.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -5335,7 +5335,7 @@
       "departureTime": "4:10 PM",
       "arrivalTime": "8:25 PM",
       "durationMinutes": 255,
-      "fare": 90.0,
+      "fare": 110.0,
       "stationIds": [
         "RAIL_DAMIETTA",
         "RAIL_MANSOURA",
@@ -5357,7 +5357,7 @@
       "departureTime": "4:40 AM",
       "arrivalTime": "7:35 AM",
       "durationMinutes": 175,
-      "fare": 40.0,
+      "fare": 50.0,
       "stationIds": [
         "RAIL_TANTA",
         "RAIL_MENOUF",
@@ -5376,7 +5376,7 @@
       "departureTime": "3:50 PM",
       "arrivalTime": "6:30 PM",
       "durationMinutes": 160,
-      "fare": 40.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
@@ -5395,7 +5395,7 @@
       "departureTime": "2:30 PM",
       "arrivalTime": "5:45 PM",
       "durationMinutes": 195,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
@@ -5414,7 +5414,7 @@
       "departureTime": "7:15 AM",
       "arrivalTime": "10:30 AM",
       "durationMinutes": 195,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_TANTA",
         "RAIL_MENOUF",
@@ -5433,7 +5433,7 @@
       "departureTime": "8:00 PM",
       "arrivalTime": "11:10 PM",
       "durationMinutes": 190,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
@@ -5452,7 +5452,7 @@
       "departureTime": "8:10 AM",
       "arrivalTime": "11:05 AM",
       "durationMinutes": 175,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_TANTA",
         "RAIL_MENOUF",
@@ -5471,7 +5471,7 @@
       "departureTime": "11:10 PM",
       "arrivalTime": "1:00 AM",
       "durationMinutes": 110,
-      "fare": 35.0,
+      "fare": 40.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QAHA",
@@ -5493,7 +5493,7 @@
       "departureTime": "5:10 AM",
       "arrivalTime": "8:45 AM",
       "durationMinutes": 215,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_TANTA",
         "RAIL_MENOUF",
@@ -5512,7 +5512,7 @@
       "departureTime": "5:15 AM",
       "arrivalTime": "8:45 AM",
       "durationMinutes": 210,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
@@ -5531,7 +5531,7 @@
       "departureTime": "6:20 AM",
       "arrivalTime": "9:35 AM",
       "durationMinutes": 195,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
@@ -5550,7 +5550,7 @@
       "departureTime": "6:50 AM",
       "arrivalTime": "10:05 AM",
       "durationMinutes": 195,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_TANTA",
         "RAIL_MENOUF",
@@ -5569,7 +5569,7 @@
       "departureTime": "9:10 AM",
       "arrivalTime": "12:35 PM",
       "durationMinutes": 205,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
@@ -5588,7 +5588,7 @@
       "departureTime": "9:50 AM",
       "arrivalTime": "1:00 PM",
       "durationMinutes": 190,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_TANTA",
         "RAIL_MENOUF",
@@ -5607,7 +5607,7 @@
       "departureTime": "11:05 AM",
       "arrivalTime": "2:15 PM",
       "durationMinutes": 190,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
@@ -5626,7 +5626,7 @@
       "departureTime": "1:15 PM",
       "arrivalTime": "5:05 PM",
       "durationMinutes": 230,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_TANTA",
         "RAIL_MENOUF",
@@ -5645,7 +5645,7 @@
       "departureTime": "12:05 PM",
       "arrivalTime": "3:10 PM",
       "durationMinutes": 185,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
@@ -5664,7 +5664,7 @@
       "departureTime": "2:35 PM",
       "arrivalTime": "6:00 PM",
       "durationMinutes": 205,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_TANTA",
         "RAIL_MENOUF",
@@ -5683,7 +5683,7 @@
       "departureTime": "1:20 PM",
       "arrivalTime": "4:40 PM",
       "durationMinutes": 200,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
@@ -5702,7 +5702,7 @@
       "departureTime": "3:30 PM",
       "arrivalTime": "6:55 PM",
       "durationMinutes": 205,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_TANTA",
         "RAIL_MENOUF",
@@ -5721,7 +5721,7 @@
       "departureTime": "3:10 PM",
       "arrivalTime": "6:10 PM",
       "durationMinutes": 180,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
@@ -5740,7 +5740,7 @@
       "departureTime": "4:05 PM",
       "arrivalTime": "7:35 PM",
       "durationMinutes": 210,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_TANTA",
         "RAIL_MENOUF",
@@ -5759,7 +5759,7 @@
       "departureTime": "4:10 PM",
       "arrivalTime": "7:30 PM",
       "durationMinutes": 200,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
@@ -5778,7 +5778,7 @@
       "departureTime": "5:10 PM",
       "arrivalTime": "8:30 PM",
       "durationMinutes": 200,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_TANTA",
         "RAIL_MENOUF",
@@ -5797,7 +5797,7 @@
       "departureTime": "5:05 PM",
       "arrivalTime": "8:25 PM",
       "durationMinutes": 200,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
@@ -5816,7 +5816,7 @@
       "departureTime": "6:30 PM",
       "arrivalTime": "9:55 PM",
       "durationMinutes": 205,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_TANTA",
         "RAIL_MENOUF",
@@ -5835,7 +5835,7 @@
       "departureTime": "9:00 PM",
       "arrivalTime": "12:10 AM",
       "durationMinutes": 190,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_TANTA",
         "RAIL_MENOUF",
@@ -5854,7 +5854,7 @@
       "departureTime": "11:35 AM",
       "arrivalTime": "3:00 PM",
       "durationMinutes": 205,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_TANTA",
         "RAIL_MENOUF",
@@ -5873,7 +5873,7 @@
       "departureTime": "5:30 PM",
       "arrivalTime": "8:50 PM",
       "durationMinutes": 200,
-      "fare": 25.0,
+      "fare": 35.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
@@ -5892,7 +5892,7 @@
       "departureTime": "10:05 PM",
       "arrivalTime": "11:13 PM",
       "durationMinutes": 68,
-      "fare": 110.0,
+      "fare": 130.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA"
@@ -5928,7 +5928,7 @@
       "departureTime": "6:25 PM",
       "arrivalTime": "7:55 PM",
       "durationMinutes": 90,
-      "fare": 35.0,
+      "fare": 40.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -5948,7 +5948,7 @@
       "departureTime": "10:40 PM",
       "arrivalTime": "11:55 PM",
       "durationMinutes": 75,
-      "fare": 90.0,
+      "fare": 110.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",

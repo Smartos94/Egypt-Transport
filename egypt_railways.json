@@ -1,7 +1,7 @@
 {
   "dataVersion": 2,
   "version": "6.4",
-  "lastUpdated": "2026-07-01",
+  "lastUpdated": "2026-07-02",
   "source": "egypttrains.com (live scrape of Egyptian National Railways schedules)",
   "trains": [
     {
@@ -91,8 +91,8 @@
       "directionEn": "Fayoum → Cairo",
       "directionAr": "الفيوم ← القاهرة",
       "departureTime": "4:30 AM",
-      "arrivalTime": "7:45 AM",
-      "durationMinutes": 195,
+      "arrivalTime": "7:50 AM",
+      "durationMinutes": 200,
       "fare": 45.0,
       "stationIds": [
         "RAIL_GIZA",

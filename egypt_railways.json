@@ -3715,9 +3715,9 @@
       "type": "VIP",
       "directionEn": "Cairo → Minya",
       "directionAr": "القاهرة ← المنيا",
-      "departureTime": "7:35 AM",
+      "departureTime": "7:15 AM",
       "arrivalTime": "11:05 AM",
-      "durationMinutes": 210,
+      "durationMinutes": 230,
       "fare": 170.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",

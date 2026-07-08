@@ -478,7 +478,7 @@
       "departureTime": "4:50 AM",
       "arrivalTime": "9:00 AM",
       "durationMinutes": 250,
-      "fare": 105.0,
+      "fare": 110.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_ZAGAZIG",
@@ -499,7 +499,7 @@
       "departureTime": "3:15 PM",
       "arrivalTime": "7:20 PM",
       "durationMinutes": 245,
-      "fare": 105.0,
+      "fare": 110.0,
       "stationIds": [
         "RAIL_PORT_SAID",
         "RAIL_QANTARA_GHARB",
@@ -564,7 +564,7 @@
       "departureTime": "5:30 AM",
       "arrivalTime": "10:00 AM",
       "durationMinutes": 270,
-      "fare": 105.0,
+      "fare": 110.0,
       "stationIds": [
         "RAIL_PORT_SAID",
         "RAIL_QANTARA_GHARB",
@@ -585,7 +585,7 @@
       "departureTime": "2:40 PM",
       "arrivalTime": "7:05 PM",
       "durationMinutes": 265,
-      "fare": 105.0,
+      "fare": 110.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QAHA",

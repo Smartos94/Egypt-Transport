@@ -1,7 +1,7 @@
 {
   "dataVersion": 2,
   "version": "6.4",
-  "lastUpdated": "2026-07-10",
+  "lastUpdated": "2026-07-11",
   "source": "egypttrains.com (live scrape of Egyptian National Railways schedules)",
   "trains": [
     {
@@ -323,7 +323,7 @@
       "departureTime": "5:55 AM",
       "arrivalTime": "7:30 AM",
       "durationMinutes": 95,
-      "fare": 70.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_ZAGAZIG",
         "RAIL_CAIRO_RAMSES"
@@ -380,7 +380,7 @@
       "departureTime": "3:40 PM",
       "arrivalTime": "5:25 PM",
       "durationMinutes": 105,
-      "fare": 70.0,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TOUKH",

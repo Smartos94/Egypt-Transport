@@ -1,7 +1,7 @@
 {
   "dataVersion": 2,
   "version": "6.4",
-  "lastUpdated": "2026-07-11",
+  "lastUpdated": "2026-07-12",
   "source": "egypttrains.com (live scrape of Egyptian National Railways schedules)",
   "trains": [
     {
@@ -3715,9 +3715,9 @@
       "type": "VIP",
       "directionEn": "Cairo → Minya",
       "directionAr": "القاهرة ← المنيا",
-      "departureTime": "7:15 AM",
+      "departureTime": "7:35 AM",
       "arrivalTime": "11:05 AM",
-      "durationMinutes": 230,
+      "durationMinutes": 210,
       "fare": 170.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",

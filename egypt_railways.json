@@ -1,7 +1,7 @@
 {
   "dataVersion": 2,
   "version": "6.4",
-  "lastUpdated": "2026-07-15",
+  "lastUpdated": "2026-07-16",
   "source": "egypttrains.com (live scrape of Egyptian National Railways schedules)",
   "trains": [
     {
@@ -3342,8 +3342,8 @@
       "directionEn": "Aswan → Cairo",
       "directionAr": "أسوان ← القاهرة",
       "departureTime": "4:30 AM",
-      "arrivalTime": "10:25 PM",
-      "durationMinutes": 1075,
+      "arrivalTime": "9:20 PM",
+      "durationMinutes": 1010,
       "fare": 250.0,
       "stationIds": [
         "RAIL_ASWAN",

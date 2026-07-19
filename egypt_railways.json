@@ -827,7 +827,7 @@
       "departureTime": "6:45 AM",
       "arrivalTime": "9:23 AM",
       "durationMinutes": 158,
-      "fare": 45.0,
+      "fare": 50.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -848,7 +848,7 @@
       "departureTime": "2:30 PM",
       "arrivalTime": "5:20 PM",
       "durationMinutes": 170,
-      "fare": 45.0,
+      "fare": 50.0,
       "stationIds": [
         "RAIL_DAMANHOUR",
         "RAIL_ITAY_BARUD",
@@ -1065,7 +1065,7 @@
       "departureTime": "11:10 PM",
       "arrivalTime": "1:10 AM",
       "durationMinutes": 120,
-      "fare": 75.0,
+      "fare": 70.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
@@ -2004,7 +2004,7 @@
       "departureTime": "5:50 AM",
       "arrivalTime": "7:55 AM",
       "durationMinutes": 125,
-      "fare": 75.0,
+      "fare": 70.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
@@ -4318,9 +4318,9 @@
       "directionEn": "Luxor → Cairo",
       "directionAr": "الأقصر ← القاهرة",
       "departureTime": "6:00 AM",
-      "arrivalTime": "7:00 PM",
-      "durationMinutes": 780,
-      "fare": 220.0,
+      "arrivalTime": "6:30 PM",
+      "durationMinutes": 750,
+      "fare": 230.0,
       "stationIds": [
         "RAIL_LUXOR",
         "RAIL_QENA",
@@ -4353,7 +4353,7 @@
       "departureTime": "12:15 PM",
       "arrivalTime": "12:10 AM",
       "durationMinutes": 715,
-      "fare": 225.0,
+      "fare": 230.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
@@ -4471,8 +4471,8 @@
       "directionEn": "Luxor → Cairo",
       "directionAr": "الأقصر ← القاهرة",
       "departureTime": "8:00 AM",
-      "arrivalTime": "9:15 PM",
-      "durationMinutes": 795,
+      "arrivalTime": "9:05 PM",
+      "durationMinutes": 785,
       "fare": 120.0,
       "stationIds": [
         "RAIL_LUXOR",
@@ -5098,7 +5098,7 @@
       "departureTime": "4:20 PM",
       "arrivalTime": "7:10 PM",
       "durationMinutes": 170,
-      "fare": 45.0,
+      "fare": 50.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_QUESNA",
@@ -5119,7 +5119,7 @@
       "departureTime": "3:40 AM",
       "arrivalTime": "6:45 AM",
       "durationMinutes": 185,
-      "fare": 45.0,
+      "fare": 50.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_TANTA",

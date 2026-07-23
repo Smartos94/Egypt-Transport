@@ -5226,7 +5226,7 @@
       "departureTime": "7:15 AM",
       "arrivalTime": "11:30 AM",
       "durationMinutes": 255,
-      "fare": 110.0,
+      "fare": 60.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_BERKET_SABA",
@@ -5335,7 +5335,7 @@
       "departureTime": "4:10 PM",
       "arrivalTime": "8:25 PM",
       "durationMinutes": 255,
-      "fare": 110.0,
+      "fare": 60.0,
       "stationIds": [
         "RAIL_DAMIETTA",
         "RAIL_MANSOURA",

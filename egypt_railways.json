@@ -111,7 +111,7 @@
       "departureTime": "2:05 PM",
       "arrivalTime": "4:40 PM",
       "durationMinutes": 155,
-      "fare": 25.0,
+      "fare": 22.0,
       "stationIds": [
         "RAIL_ZAGAZIG",
         "RAIL_SHIBIN_EL_QANATER",
@@ -128,8 +128,8 @@
       "directionEn": "Cairo → Fayoum",
       "directionAr": "القاهرة ← الفيوم",
       "departureTime": "8:45 AM",
-      "arrivalTime": "12:15 PM",
-      "durationMinutes": 210,
+      "arrivalTime": "12:10 PM",
+      "durationMinutes": 205,
       "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
@@ -148,7 +148,7 @@
       "departureTime": "5:30 AM",
       "arrivalTime": "7:50 AM",
       "durationMinutes": 140,
-      "fare": 25.0,
+      "fare": 22.0,
       "stationIds": [
         "RAIL_ZAGAZIG",
         "RAIL_SHIBIN_EL_QANATER",
@@ -165,9 +165,9 @@
       "directionEn": "Cairo → Zagazig",
       "directionAr": "القاهرة ← الزقازيق",
       "departureTime": "3:40 PM",
-      "arrivalTime": "5:40 PM",
-      "durationMinutes": 120,
-      "fare": 25.0,
+      "arrivalTime": "5:30 PM",
+      "durationMinutes": 110,
+      "fare": 22.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -186,7 +186,7 @@
       "departureTime": "4:00 AM",
       "arrivalTime": "6:25 AM",
       "durationMinutes": 145,
-      "fare": 25.0,
+      "fare": 22.0,
       "stationIds": [
         "RAIL_ZAGAZIG",
         "RAIL_SHIBIN_EL_QANATER",
@@ -205,7 +205,7 @@
       "departureTime": "5:00 AM",
       "arrivalTime": "7:25 AM",
       "durationMinutes": 145,
-      "fare": 25.0,
+      "fare": 22.0,
       "stationIds": [
         "RAIL_ZAGAZIG",
         "RAIL_SHIBIN_EL_QANATER",
@@ -224,7 +224,7 @@
       "departureTime": "2:25 PM",
       "arrivalTime": "4:55 PM",
       "durationMinutes": 150,
-      "fare": 25.0,
+      "fare": 22.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -243,7 +243,7 @@
       "departureTime": "7:30 PM",
       "arrivalTime": "10:05 PM",
       "durationMinutes": 155,
-      "fare": 25.0,
+      "fare": 22.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -262,7 +262,7 @@
       "departureTime": "10:10 PM",
       "arrivalTime": "12:30 AM",
       "durationMinutes": 140,
-      "fare": 25.0,
+      "fare": 22.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
@@ -323,7 +323,7 @@
       "departureTime": "5:55 AM",
       "arrivalTime": "7:30 AM",
       "durationMinutes": 95,
-      "fare": 90.0,
+      "fare": 28.0,
       "stationIds": [
         "RAIL_ZAGAZIG",
         "RAIL_CAIRO_RAMSES"
@@ -380,7 +380,7 @@
       "departureTime": "3:40 PM",
       "arrivalTime": "5:25 PM",
       "durationMinutes": 105,
-      "fare": 90.0,
+      "fare": 28.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TOUKH",
@@ -4623,7 +4623,7 @@
       "departureTime": "6:35 AM",
       "arrivalTime": "8:55 AM",
       "durationMinutes": 140,
-      "fare": 120.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
         "RAIL_CAIRO_RAMSES"
@@ -4641,7 +4641,7 @@
       "departureTime": "5:10 PM",
       "arrivalTime": "7:30 PM",
       "durationMinutes": 140,
-      "fare": 120.0,
+      "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_MANSOURA"
@@ -4735,8 +4735,8 @@
       "directionEn": "Mansoura → Cairo",
       "directionAr": "المنصورة ← القاهرة",
       "departureTime": "4:00 PM",
-      "arrivalTime": "7:30 PM",
-      "durationMinutes": 210,
+      "arrivalTime": "7:40 PM",
+      "durationMinutes": 220,
       "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
@@ -4755,8 +4755,8 @@
       "directionEn": "Cairo → Mansoura",
       "directionAr": "القاهرة ← المنصورة",
       "departureTime": "8:40 PM",
-      "arrivalTime": "11:59 PM",
-      "durationMinutes": 199,
+      "arrivalTime": "12:00 AM",
+      "durationMinutes": 200,
       "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
@@ -4876,8 +4876,8 @@
       "directionEn": "Mansoura → Cairo",
       "directionAr": "المنصورة ← القاهرة",
       "departureTime": "9:00 AM",
-      "arrivalTime": "1:35 PM",
-      "durationMinutes": 275,
+      "arrivalTime": "1:40 PM",
+      "durationMinutes": 280,
       "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
@@ -4916,8 +4916,8 @@
       "directionEn": "Mansoura → Cairo",
       "directionAr": "المنصورة ← القاهرة",
       "departureTime": "10:40 AM",
-      "arrivalTime": "3:30 PM",
-      "durationMinutes": 290,
+      "arrivalTime": "3:45 PM",
+      "durationMinutes": 305,
       "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
@@ -4996,8 +4996,8 @@
       "directionEn": "Mansoura → Cairo",
       "directionAr": "المنصورة ← القاهرة",
       "departureTime": "2:00 PM",
-      "arrivalTime": "6:45 PM",
-      "durationMinutes": 285,
+      "arrivalTime": "6:55 PM",
+      "durationMinutes": 295,
       "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
@@ -5056,8 +5056,8 @@
       "directionEn": "Mansoura → Cairo",
       "directionAr": "المنصورة ← القاهرة",
       "departureTime": "6:00 PM",
-      "arrivalTime": "10:40 PM",
-      "durationMinutes": 280,
+      "arrivalTime": "10:45 PM",
+      "durationMinutes": 285,
       "fare": 45.0,
       "stationIds": [
         "RAIL_MANSOURA",
@@ -5076,8 +5076,8 @@
       "directionEn": "Cairo → Mansoura",
       "directionAr": "القاهرة ← المنصورة",
       "departureTime": "5:40 PM",
-      "arrivalTime": "10:40 PM",
-      "durationMinutes": 300,
+      "arrivalTime": "10:50 PM",
+      "durationMinutes": 310,
       "fare": 45.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",

@@ -1,7 +1,7 @@
 {
   "dataVersion": 2,
   "version": "6.4",
-  "lastUpdated": "2026-07-26",
+  "lastUpdated": "2026-07-27",
   "source": "egypttrains.com (live scrape of Egyptian National Railways schedules)",
   "trains": [
     {
@@ -2328,8 +2328,8 @@
       "directionEn": "Cairo → Aswan",
       "directionAr": "القاهرة ← أسوان",
       "departureTime": "6:50 PM",
-      "arrivalTime": "8:55 AM",
-      "durationMinutes": 845,
+      "arrivalTime": "8:35 AM",
+      "durationMinutes": 825,
       "fare": 150.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
@@ -2718,8 +2718,8 @@
       "directionEn": "Cairo → Aswan",
       "directionAr": "القاهرة ← أسوان",
       "departureTime": "6:00 PM",
-      "arrivalTime": "10:40 AM",
-      "durationMinutes": 1000,
+      "arrivalTime": "10:45 AM",
+      "durationMinutes": 1005,
       "fare": 150.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",

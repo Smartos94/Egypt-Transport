@@ -1,7 +1,7 @@
 {
   "dataVersion": 2,
   "version": "6.4",
-  "lastUpdated": "2026-07-27",
+  "lastUpdated": "2026-07-28",
   "source": "egypttrains.com (live scrape of Egyptian National Railways schedules)",
   "trains": [
     {
@@ -16,7 +16,7 @@
       "departureTime": "3:45 PM",
       "arrivalTime": "6:05 PM",
       "durationMinutes": 140,
-      "fare": 45.0,
+      "fare": 50.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA"
@@ -34,7 +34,7 @@
       "departureTime": "12:50 PM",
       "arrivalTime": "3:15 PM",
       "durationMinutes": 145,
-      "fare": 45.0,
+      "fare": 50.0,
       "stationIds": [
         "RAIL_GIZA",
         "RAIL_CAIRO_RAMSES"
@@ -93,7 +93,7 @@
       "departureTime": "4:30 AM",
       "arrivalTime": "7:50 AM",
       "durationMinutes": 200,
-      "fare": 45.0,
+      "fare": 50.0,
       "stationIds": [
         "RAIL_GIZA",
         "RAIL_CAIRO_RAMSES"
@@ -130,7 +130,7 @@
       "departureTime": "8:45 AM",
       "arrivalTime": "12:10 PM",
       "durationMinutes": 205,
-      "fare": 45.0,
+      "fare": 50.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA"
@@ -341,7 +341,7 @@
       "departureTime": "5:00 AM",
       "arrivalTime": "8:00 AM",
       "durationMinutes": 180,
-      "fare": 75.0,
+      "fare": 80.0,
       "stationIds": [
         "RAIL_ISMAILIA",
         "RAIL_ZAGAZIG",
@@ -361,7 +361,7 @@
       "departureTime": "12:40 PM",
       "arrivalTime": "3:50 PM",
       "durationMinutes": 190,
-      "fare": 75.0,
+      "fare": 80.0,
       "stationIds": [
         "RAIL_ISMAILIA",
         "RAIL_ZAGAZIG",
@@ -439,7 +439,7 @@
       "departureTime": "9:35 PM",
       "arrivalTime": "12:40 AM",
       "durationMinutes": 185,
-      "fare": 75.0,
+      "fare": 80.0,
       "stationIds": [
         "RAIL_ISMAILIA",
         "RAIL_ZAGAZIG",

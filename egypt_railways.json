@@ -1,7 +1,7 @@
 {
   "dataVersion": 2,
   "version": "6.4",
-  "lastUpdated": "2026-07-30",
+  "lastUpdated": "2026-07-31",
   "source": "egypttrains.com (live scrape of Egyptian National Railways schedules)",
   "trains": [
     {
@@ -1147,8 +1147,8 @@
       "type": "Talgo",
       "directionEn": "Alexandria → Cairo",
       "directionAr": "الإسكندرية ← القاهرة",
-      "departureTime": "9:00 AM",
-      "arrivalTime": "11:35 AM",
+      "departureTime": "7:00 AM",
+      "arrivalTime": "9:35 AM",
       "durationMinutes": 155,
       "fare": 300.0,
       "stationIds": [

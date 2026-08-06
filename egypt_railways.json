@@ -1147,8 +1147,8 @@
       "type": "Talgo",
       "directionEn": "Alexandria → Cairo",
       "directionAr": "الإسكندرية ← القاهرة",
-      "departureTime": "9:00 AM",
-      "arrivalTime": "11:35 AM",
+      "departureTime": "7:00 AM",
+      "arrivalTime": "9:35 AM",
       "durationMinutes": 155,
       "fare": 300.0,
       "stationIds": [

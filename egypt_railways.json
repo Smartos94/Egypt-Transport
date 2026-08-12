@@ -1,7 +1,7 @@
 {
   "dataVersion": 2,
   "version": "6.4",
-  "lastUpdated": "2026-08-11",
+  "lastUpdated": "2026-08-12",
   "source": "egypttrains.com (live scrape of Egyptian National Railways schedules)",
   "trains": [
     {
@@ -2800,6 +2800,56 @@
         "RAIL_ASYUT",
         "RAIL_GIZA",
         "RAIL_CAIRO_RAMSES"
+      ]
+    },
+    {
+      "id": "RAIL_TRAIN_1951",
+      "number": "1951",
+      "nameEn": "AC Russian 1951",
+      "nameAr": "AC روسي 1951",
+      "lineId": "RAILWAY_CAIRO_ASWAN",
+      "type": "AC Russian",
+      "directionEn": "Asyut → Cairo",
+      "directionAr": "أسيوط ← القاهرة",
+      "departureTime": "9:10 AM",
+      "arrivalTime": "2:50 PM",
+      "durationMinutes": 340,
+      "fare": 160.0,
+      "stationIds": [
+        "RAIL_ASYUT",
+        "RAIL_MANFALUT",
+        "RAIL_DAYROUT",
+        "RAIL_MINYA",
+        "RAIL_SAMALUT",
+        "RAIL_MAGHAGHA",
+        "RAIL_BENI_SUEF",
+        "RAIL_GIZA",
+        "RAIL_CAIRO_RAMSES"
+      ]
+    },
+    {
+      "id": "RAIL_TRAIN_1952",
+      "number": "1952",
+      "nameEn": "AC Russian 1952",
+      "nameAr": "AC روسي 1952",
+      "lineId": "RAILWAY_CAIRO_ASWAN",
+      "type": "AC Russian",
+      "directionEn": "Cairo → Asyut",
+      "directionAr": "القاهرة ← أسيوط",
+      "departureTime": "9:40 PM",
+      "arrivalTime": "3:20 AM",
+      "durationMinutes": 340,
+      "fare": 160.0,
+      "stationIds": [
+        "RAIL_CAIRO_RAMSES",
+        "RAIL_GIZA",
+        "RAIL_BENI_SUEF",
+        "RAIL_MAGHAGHA",
+        "RAIL_SAMALUT",
+        "RAIL_MINYA",
+        "RAIL_DAYROUT",
+        "RAIL_MANFALUT",
+        "RAIL_ASYUT"
       ]
     },
     {

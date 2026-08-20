@@ -2510,19 +2510,22 @@
       "nameAr": "روسي 162",
       "lineId": "RAILWAY_CAIRO_ASWAN",
       "type": "Russian",
-      "directionEn": "Cairo → Minya",
-      "directionAr": "القاهرة ← المنيا",
+      "directionEn": "Cairo → Asyut",
+      "directionAr": "القاهرة ← أسيوط",
       "departureTime": "2:15 PM",
-      "arrivalTime": "6:50 PM",
-      "durationMinutes": 275,
-      "fare": 75.0,
+      "arrivalTime": "9:35 PM",
+      "durationMinutes": 440,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
         "RAIL_BENI_SUEF",
         "RAIL_MAGHAGHA",
         "RAIL_SAMALUT",
-        "RAIL_MINYA"
+        "RAIL_MINYA",
+        "RAIL_DAYROUT",
+        "RAIL_MANFALUT",
+        "RAIL_ASYUT"
       ]
     },
     {
@@ -2831,19 +2834,22 @@
       "nameAr": "AC روسي 1952",
       "lineId": "RAILWAY_CAIRO_ASWAN",
       "type": "AC Russian",
-      "directionEn": "Cairo → Minya",
-      "directionAr": "القاهرة ← المنيا",
+      "directionEn": "Cairo → Asyut",
+      "directionAr": "القاهرة ← أسيوط",
       "departureTime": "9:40 PM",
-      "arrivalTime": "1:05 AM",
-      "durationMinutes": 205,
-      "fare": 140.0,
+      "arrivalTime": "3:20 AM",
+      "durationMinutes": 340,
+      "fare": 160.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
         "RAIL_BENI_SUEF",
         "RAIL_MAGHAGHA",
         "RAIL_SAMALUT",
-        "RAIL_MINYA"
+        "RAIL_MINYA",
+        "RAIL_DAYROUT",
+        "RAIL_MANFALUT",
+        "RAIL_ASYUT"
       ]
     },
     {
@@ -3297,19 +3303,22 @@
       "nameAr": "AC روسي 3502",
       "lineId": "RAILWAY_CAIRO_ASWAN",
       "type": "AC Russian",
-      "directionEn": "Cairo → Minya",
-      "directionAr": "القاهرة ← المنيا",
+      "directionEn": "Cairo → Asyut",
+      "directionAr": "القاهرة ← أسيوط",
       "departureTime": "1:30 AM",
-      "arrivalTime": "5:14 AM",
-      "durationMinutes": 224,
-      "fare": 140.0,
+      "arrivalTime": "7:25 AM",
+      "durationMinutes": 355,
+      "fare": 160.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
         "RAIL_BENI_SUEF",
         "RAIL_MAGHAGHA",
         "RAIL_SAMALUT",
-        "RAIL_MINYA"
+        "RAIL_MINYA",
+        "RAIL_DAYROUT",
+        "RAIL_MANFALUT",
+        "RAIL_ASYUT"
       ]
     },
     {
@@ -3478,18 +3487,21 @@
       "nameAr": "AC روسي 872",
       "lineId": "RAILWAY_CAIRO_ASWAN",
       "type": "AC Russian",
-      "directionEn": "Cairo → Minya",
-      "directionAr": "القاهرة ← المنيا",
+      "directionEn": "Cairo → Asyut",
+      "directionAr": "القاهرة ← أسيوط",
       "departureTime": "5:45 PM",
-      "arrivalTime": "9:25 PM",
-      "durationMinutes": 220,
-      "fare": 140.0,
+      "arrivalTime": "11:55 PM",
+      "durationMinutes": 370,
+      "fare": 160.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
         "RAIL_BENI_SUEF",
         "RAIL_MAGHAGHA",
-        "RAIL_MINYA"
+        "RAIL_MINYA",
+        "RAIL_DAYROUT",
+        "RAIL_MANFALUT",
+        "RAIL_ASYUT"
       ]
     },
     {
@@ -3730,17 +3742,18 @@
       "nameAr": "أبو الهول 930",
       "lineId": "RAILWAY_CAIRO_ASWAN",
       "type": "Abu Al-Hol",
-      "directionEn": "Cairo → Minya",
-      "directionAr": "القاهرة ← المنيا",
+      "directionEn": "Cairo → Asyut",
+      "directionAr": "القاهرة ← أسيوط",
       "departureTime": "6:30 AM",
-      "arrivalTime": "9:45 AM",
-      "durationMinutes": 195,
-      "fare": 225.0,
+      "arrivalTime": "11:35 AM",
+      "durationMinutes": 305,
+      "fare": 250.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
         "RAIL_BENI_SUEF",
-        "RAIL_MINYA"
+        "RAIL_MINYA",
+        "RAIL_ASYUT"
       ]
     },
     {
@@ -3821,19 +3834,22 @@
       "nameAr": "روسي 972",
       "lineId": "RAILWAY_CAIRO_ASWAN",
       "type": "Russian",
-      "directionEn": "Cairo → Minya",
-      "directionAr": "القاهرة ← المنيا",
+      "directionEn": "Cairo → Asyut",
+      "directionAr": "القاهرة ← أسيوط",
       "departureTime": "4:20 PM",
-      "arrivalTime": "9:00 PM",
-      "durationMinutes": 280,
-      "fare": 75.0,
+      "arrivalTime": "11:25 PM",
+      "durationMinutes": 425,
+      "fare": 90.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
         "RAIL_BENI_SUEF",
         "RAIL_MAGHAGHA",
         "RAIL_SAMALUT",
-        "RAIL_MINYA"
+        "RAIL_MINYA",
+        "RAIL_DAYROUT",
+        "RAIL_MANFALUT",
+        "RAIL_ASYUT"
       ]
     },
     {
@@ -3868,19 +3884,22 @@
       "nameAr": "AC روسي 978",
       "lineId": "RAILWAY_CAIRO_ASWAN",
       "type": "AC Russian",
-      "directionEn": "Cairo → Minya",
-      "directionAr": "القاهرة ← المنيا",
+      "directionEn": "Cairo → Asyut",
+      "directionAr": "القاهرة ← أسيوط",
       "departureTime": "6:45 AM",
-      "arrivalTime": "10:45 AM",
-      "durationMinutes": 240,
-      "fare": 140.0,
+      "arrivalTime": "12:55 PM",
+      "durationMinutes": 370,
+      "fare": 160.0,
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA",
         "RAIL_BENI_SUEF",
         "RAIL_MAGHAGHA",
         "RAIL_SAMALUT",
-        "RAIL_MINYA"
+        "RAIL_MINYA",
+        "RAIL_DAYROUT",
+        "RAIL_MANFALUT",
+        "RAIL_ASYUT"
       ]
     },
     {

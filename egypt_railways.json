@@ -41,26 +41,6 @@
       ]
     },
     {
-      "id": "RAIL_TRAIN_1112",
-      "number": "1112",
-      "nameEn": "Russian 1112",
-      "nameAr": "روسي 1112",
-      "lineId": "RAILWAY",
-      "type": "Russian",
-      "directionEn": "Ismailia → Cairo",
-      "directionAr": "الإسماعيلية ← القاهرة",
-      "departureTime": "6:30 AM",
-      "arrivalTime": "10:20 AM",
-      "durationMinutes": 230,
-      "fare": 55.0,
-      "stationIds": [
-        "RAIL_ISMAILIA",
-        "RAIL_ZAGAZIG",
-        "RAIL_SHIBIN_EL_QANATER",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
       "id": "RAIL_TRAIN_1113",
       "number": "1113",
       "nameEn": "AC Russian 1113",
@@ -100,25 +80,6 @@
       ]
     },
     {
-      "id": "RAIL_TRAIN_1418",
-      "number": "1418",
-      "nameEn": "Improved 1418",
-      "nameAr": "محسن 1418",
-      "lineId": "RAILWAY",
-      "type": "Improved",
-      "directionEn": "Zagazig → Cairo",
-      "directionAr": "الزقازيق ← القاهرة",
-      "departureTime": "2:05 PM",
-      "arrivalTime": "4:40 PM",
-      "durationMinutes": 155,
-      "fare": 22.0,
-      "stationIds": [
-        "RAIL_ZAGAZIG",
-        "RAIL_SHIBIN_EL_QANATER",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
       "id": "RAIL_TRAIN_142",
       "number": "142",
       "nameEn": "Russian 142",
@@ -134,25 +95,6 @@
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_GIZA"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_332",
-      "number": "332",
-      "nameEn": "Improved 332",
-      "nameAr": "محسن 332",
-      "lineId": "RAILWAY",
-      "type": "Improved",
-      "directionEn": "Zagazig → Cairo",
-      "directionAr": "الزقازيق ← القاهرة",
-      "departureTime": "5:30 AM",
-      "arrivalTime": "7:50 AM",
-      "durationMinutes": 140,
-      "fare": 22.0,
-      "stationIds": [
-        "RAIL_ZAGAZIG",
-        "RAIL_SHIBIN_EL_QANATER",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
@@ -172,44 +114,6 @@
         "RAIL_CAIRO_RAMSES",
         "RAIL_SHIBIN_EL_QANATER",
         "RAIL_ZAGAZIG"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_374",
-      "number": "374",
-      "nameEn": "Improved 374",
-      "nameAr": "محسن 374",
-      "lineId": "RAILWAY",
-      "type": "Improved",
-      "directionEn": "Zagazig → Cairo",
-      "directionAr": "الزقازيق ← القاهرة",
-      "departureTime": "4:00 AM",
-      "arrivalTime": "6:25 AM",
-      "durationMinutes": 145,
-      "fare": 22.0,
-      "stationIds": [
-        "RAIL_ZAGAZIG",
-        "RAIL_SHIBIN_EL_QANATER",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_376",
-      "number": "376",
-      "nameEn": "Improved 376",
-      "nameAr": "محسن 376",
-      "lineId": "RAILWAY",
-      "type": "Improved",
-      "directionEn": "Zagazig → Cairo",
-      "directionAr": "الزقازيق ← القاهرة",
-      "departureTime": "5:00 AM",
-      "arrivalTime": "7:25 AM",
-      "durationMinutes": 145,
-      "fare": 22.0,
-      "stationIds": [
-        "RAIL_ZAGAZIG",
-        "RAIL_SHIBIN_EL_QANATER",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
@@ -290,85 +194,6 @@
       ]
     },
     {
-      "id": "RAIL_TRAIN_594",
-      "number": "594",
-      "nameEn": "Russian 594",
-      "nameAr": "روسي 594",
-      "lineId": "RAILWAY",
-      "type": "Russian",
-      "directionEn": "Suez → Cairo",
-      "directionAr": "السويس ← القاهرة",
-      "departureTime": "3:00 PM",
-      "arrivalTime": "8:15 PM",
-      "durationMinutes": 315,
-      "fare": 75.0,
-      "stationIds": [
-        "RAIL_SUEZ",
-        "RAIL_ISMAILIA",
-        "RAIL_ZAGAZIG",
-        "RAIL_TOUKH",
-        "RAIL_QAHA",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_944",
-      "number": "944",
-      "nameEn": "AC Spanish + Improved 944",
-      "nameAr": "AC Spanish + Improved 944",
-      "lineId": "RAILWAY",
-      "type": "AC Spanish + Improved",
-      "directionEn": "Zagazig → Cairo",
-      "directionAr": "الزقازيق ← القاهرة",
-      "departureTime": "5:55 AM",
-      "arrivalTime": "7:30 AM",
-      "durationMinutes": 95,
-      "fare": 28.0,
-      "stationIds": [
-        "RAIL_ZAGAZIG",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_946",
-      "number": "946",
-      "nameEn": "AC Russian 946",
-      "nameAr": "AC روسي 946",
-      "lineId": "RAILWAY",
-      "type": "AC Russian",
-      "directionEn": "Ismailia → Cairo",
-      "directionAr": "الإسماعيلية ← القاهرة",
-      "departureTime": "5:00 AM",
-      "arrivalTime": "8:00 AM",
-      "durationMinutes": 180,
-      "fare": 80.0,
-      "stationIds": [
-        "RAIL_ISMAILIA",
-        "RAIL_ZAGAZIG",
-        "RAIL_TOUKH",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_954",
-      "number": "954",
-      "nameEn": "AC Russian 954",
-      "nameAr": "AC روسي 954",
-      "lineId": "RAILWAY",
-      "type": "AC Russian",
-      "directionEn": "Ismailia → Cairo",
-      "directionAr": "الإسماعيلية ← القاهرة",
-      "departureTime": "12:40 PM",
-      "arrivalTime": "3:50 PM",
-      "durationMinutes": 190,
-      "fare": 80.0,
-      "stationIds": [
-        "RAIL_ISMAILIA",
-        "RAIL_ZAGAZIG",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
       "id": "RAIL_TRAIN_957",
       "number": "957",
       "nameEn": "AC Spanish + Improved 957",
@@ -428,25 +253,6 @@
       ]
     },
     {
-      "id": "RAIL_TRAIN_962",
-      "number": "962",
-      "nameEn": "AC Russian 962",
-      "nameAr": "AC روسي 962",
-      "lineId": "RAILWAY",
-      "type": "AC Russian",
-      "directionEn": "Ismailia → Cairo",
-      "directionAr": "الإسماعيلية ← القاهرة",
-      "departureTime": "9:35 PM",
-      "arrivalTime": "12:40 AM",
-      "durationMinutes": 185,
-      "fare": 80.0,
-      "stationIds": [
-        "RAIL_ISMAILIA",
-        "RAIL_ZAGAZIG",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
       "id": "RAIL_TRAIN_963",
       "number": "963",
       "nameEn": "Russian 963",
@@ -485,27 +291,6 @@
         "RAIL_ISMAILIA",
         "RAIL_QANTARA_GHARB",
         "RAIL_PORT_SAID"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_3016",
-      "number": "3016",
-      "nameEn": "AC Russian 3016",
-      "nameAr": "AC روسي 3016",
-      "lineId": "RAILWAY_BENHA_PORT_SAID",
-      "type": "AC Russian",
-      "directionEn": "Port Said → Cairo",
-      "directionAr": "بورسعيد ← القاهرة",
-      "departureTime": "3:15 PM",
-      "arrivalTime": "7:20 PM",
-      "durationMinutes": 245,
-      "fare": 110.0,
-      "stationIds": [
-        "RAIL_PORT_SAID",
-        "RAIL_QANTARA_GHARB",
-        "RAIL_ISMAILIA",
-        "RAIL_ZAGAZIG",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
@@ -553,27 +338,6 @@
       ]
     },
     {
-      "id": "RAIL_TRAIN_952",
-      "number": "952",
-      "nameEn": "AC Russian 952",
-      "nameAr": "AC روسي 952",
-      "lineId": "RAILWAY_BENHA_PORT_SAID",
-      "type": "AC Russian",
-      "directionEn": "Port Said → Cairo",
-      "directionAr": "بورسعيد ← القاهرة",
-      "departureTime": "5:30 AM",
-      "arrivalTime": "10:00 AM",
-      "durationMinutes": 270,
-      "fare": 110.0,
-      "stationIds": [
-        "RAIL_PORT_SAID",
-        "RAIL_QANTARA_GHARB",
-        "RAIL_ISMAILIA",
-        "RAIL_ZAGAZIG",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
       "id": "RAIL_TRAIN_955",
       "number": "955",
       "nameEn": "AC Russian 955",
@@ -593,48 +357,6 @@
         "RAIL_ISMAILIA",
         "RAIL_QANTARA_GHARB",
         "RAIL_PORT_SAID"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_956",
-      "number": "956",
-      "nameEn": "Russian 956",
-      "nameAr": "روسي 956",
-      "lineId": "RAILWAY_BENHA_PORT_SAID",
-      "type": "Russian",
-      "directionEn": "Port Said → Cairo",
-      "directionAr": "بورسعيد ← القاهرة",
-      "departureTime": "1:20 PM",
-      "arrivalTime": "5:50 PM",
-      "durationMinutes": 270,
-      "fare": 65.0,
-      "stationIds": [
-        "RAIL_PORT_SAID",
-        "RAIL_QANTARA_GHARB",
-        "RAIL_ISMAILIA",
-        "RAIL_ZAGAZIG",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_960",
-      "number": "960",
-      "nameEn": "Russian 960",
-      "nameAr": "روسي 960",
-      "lineId": "RAILWAY_BENHA_PORT_SAID",
-      "type": "Russian",
-      "directionEn": "Port Said → Cairo",
-      "directionAr": "بورسعيد ← القاهرة",
-      "departureTime": "6:35 PM",
-      "arrivalTime": "11:05 PM",
-      "durationMinutes": 270,
-      "fare": 65.0,
-      "stationIds": [
-        "RAIL_PORT_SAID",
-        "RAIL_QANTARA_GHARB",
-        "RAIL_ISMAILIA",
-        "RAIL_ZAGAZIG",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
@@ -834,28 +556,6 @@
         "RAIL_BERKET_SABA",
         "RAIL_TANTA",
         "RAIL_DAMANHOUR"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_1208-1209",
-      "number": "1208-1209",
-      "nameEn": "Russian 1208-1209",
-      "nameAr": "روسي 1208-1209",
-      "lineId": "RAILWAY_CAIRO_ALEX",
-      "type": "Russian",
-      "directionEn": "Damanhour → Cairo",
-      "directionAr": "دمنهور ← القاهرة",
-      "departureTime": "2:30 PM",
-      "arrivalTime": "5:20 PM",
-      "durationMinutes": 170,
-      "fare": 50.0,
-      "stationIds": [
-        "RAIL_DAMANHOUR",
-        "RAIL_ITAY_BARUD",
-        "RAIL_TANTA",
-        "RAIL_BERKET_SABA",
-        "RAIL_QUESNA",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
@@ -1070,25 +770,6 @@
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
         "RAIL_DAMANHOUR"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_1935-1936",
-      "number": "1935-1936",
-      "nameEn": "AC Russian 1935-1936",
-      "nameAr": "AC روسي 1935-1936",
-      "lineId": "RAILWAY_CAIRO_ALEX",
-      "type": "AC Russian",
-      "directionEn": "Damanhour → Cairo",
-      "directionAr": "دمنهور ← القاهرة",
-      "departureTime": "7:03 PM",
-      "arrivalTime": "8:55 PM",
-      "durationMinutes": 112,
-      "fare": 70.0,
-      "stationIds": [
-        "RAIL_DAMANHOUR",
-        "RAIL_TANTA",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
@@ -2009,25 +1690,6 @@
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA",
         "RAIL_DAMANHOUR"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_942-943",
-      "number": "942-943",
-      "nameEn": "AC Russian 942-943",
-      "nameAr": "AC روسي 942-943",
-      "lineId": "RAILWAY_CAIRO_ALEX",
-      "type": "AC Russian",
-      "directionEn": "Damanhour → Cairo",
-      "directionAr": "دمنهور ← القاهرة",
-      "departureTime": "2:21 AM",
-      "arrivalTime": "4:15 AM",
-      "durationMinutes": 114,
-      "fare": 70.0,
-      "stationIds": [
-        "RAIL_DAMANHOUR",
-        "RAIL_TANTA",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
@@ -5201,14 +4863,13 @@
       "nameAr": "AC روسي 964",
       "lineId": "RAILWAY_CAIRO_MANSOURA",
       "type": "AC Russian",
-      "directionEn": "Damietta → Cairo",
-      "directionAr": "دمياط ← القاهرة",
-      "departureTime": "6:00 AM",
+      "directionEn": "Mansoura → Cairo",
+      "directionAr": "المنصورة ← القاهرة",
+      "departureTime": "7:35 AM",
       "arrivalTime": "10:15 AM",
-      "durationMinutes": 255,
-      "fare": 90.0,
+      "durationMinutes": 160,
+      "fare": 60.0,
       "stationIds": [
-        "RAIL_DAMIETTA",
         "RAIL_MANSOURA",
         "RAIL_TANTA",
         "RAIL_CAIRO_RAMSES"
@@ -5242,14 +4903,13 @@
       "nameAr": "AC Russian + Russian 966",
       "lineId": "RAILWAY_CAIRO_MANSOURA",
       "type": "AC Russian + Russian",
-      "directionEn": "Damietta → Cairo",
-      "directionAr": "دمياط ← القاهرة",
-      "departureTime": "1:15 PM",
+      "directionEn": "Mansoura → Cairo",
+      "directionAr": "المنصورة ← القاهرة",
+      "departureTime": "3:05 PM",
       "arrivalTime": "6:10 PM",
-      "durationMinutes": 295,
-      "fare": 65.0,
+      "durationMinutes": 185,
+      "fare": 50.0,
       "stationIds": [
-        "RAIL_DAMIETTA",
         "RAIL_MANSOURA",
         "RAIL_TANTA",
         "RAIL_BERKET_SABA",
@@ -5286,14 +4946,13 @@
       "nameAr": "روسي 968",
       "lineId": "RAILWAY_CAIRO_MANSOURA",
       "type": "Russian",
-      "directionEn": "Damietta → Cairo",
-      "directionAr": "دمياط ← القاهرة",
-      "departureTime": "7:15 PM",
+      "directionEn": "Mansoura → Cairo",
+      "directionAr": "المنصورة ← القاهرة",
+      "departureTime": "8:55 PM",
       "arrivalTime": "11:50 PM",
-      "durationMinutes": 275,
-      "fare": 65.0,
+      "durationMinutes": 175,
+      "fare": 50.0,
       "stationIds": [
-        "RAIL_DAMIETTA",
         "RAIL_MANSOURA",
         "RAIL_TANTA",
         "RAIL_BERKET_SABA",
@@ -5330,37 +4989,17 @@
       "nameAr": "AC Spanish + Improved 994",
       "lineId": "RAILWAY_CAIRO_MANSOURA",
       "type": "AC Spanish + Improved",
-      "directionEn": "Damietta → Cairo",
-      "directionAr": "دمياط ← القاهرة",
-      "departureTime": "4:10 PM",
+      "directionEn": "Mansoura → Cairo",
+      "directionAr": "المنصورة ← القاهرة",
+      "departureTime": "5:45 PM",
       "arrivalTime": "8:25 PM",
-      "durationMinutes": 255,
-      "fare": 60.0,
+      "durationMinutes": 160,
+      "fare": 45.0,
       "stationIds": [
-        "RAIL_DAMIETTA",
         "RAIL_MANSOURA",
         "RAIL_TANTA",
         "RAIL_BERKET_SABA",
         "RAIL_QUESNA",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_1190",
-      "number": "1190",
-      "nameEn": "AC Russian 1190",
-      "nameAr": "AC روسي 1190",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "AC Russian",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "4:55 AM",
-      "arrivalTime": "7:35 AM",
-      "durationMinutes": 160,
-      "fare": 50.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_MENOUF",
         "RAIL_CAIRO_RAMSES"
       ]
     },
@@ -5403,25 +5042,6 @@
       ]
     },
     {
-      "id": "RAIL_TRAIN_122",
-      "number": "122",
-      "nameEn": "Improved 122",
-      "nameAr": "محسن 122",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "Improved",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "7:15 AM",
-      "arrivalTime": "10:30 AM",
-      "durationMinutes": 195,
-      "fare": 35.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_MENOUF",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
       "id": "RAIL_TRAIN_123",
       "number": "123",
       "nameEn": "Improved 123",
@@ -5438,25 +5058,6 @@
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
         "RAIL_TANTA"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_124",
-      "number": "124",
-      "nameEn": "Improved 124",
-      "nameAr": "محسن 124",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "Improved",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "8:10 AM",
-      "arrivalTime": "11:05 AM",
-      "durationMinutes": 175,
-      "fare": 35.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_MENOUF",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
@@ -5479,25 +5080,6 @@
         "RAIL_QUESNA",
         "RAIL_BERKET_SABA",
         "RAIL_TANTA"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_534",
-      "number": "534",
-      "nameEn": "Improved 534",
-      "nameAr": "محسن 534",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "Improved",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "5:10 AM",
-      "arrivalTime": "8:45 AM",
-      "durationMinutes": 215,
-      "fare": 35.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_MENOUF",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
@@ -5539,25 +5121,6 @@
       ]
     },
     {
-      "id": "RAIL_TRAIN_540",
-      "number": "540",
-      "nameEn": "Improved 540",
-      "nameAr": "محسن 540",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "Improved",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "6:50 AM",
-      "arrivalTime": "10:05 AM",
-      "durationMinutes": 195,
-      "fare": 35.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_MENOUF",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
       "id": "RAIL_TRAIN_543",
       "number": "543",
       "nameEn": "Improved 543",
@@ -5574,25 +5137,6 @@
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
         "RAIL_TANTA"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_544",
-      "number": "544",
-      "nameEn": "Improved 544",
-      "nameAr": "محسن 544",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "Improved",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "9:50 AM",
-      "arrivalTime": "1:00 PM",
-      "durationMinutes": 190,
-      "fare": 35.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_MENOUF",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
@@ -5615,25 +5159,6 @@
       ]
     },
     {
-      "id": "RAIL_TRAIN_546",
-      "number": "546",
-      "nameEn": "Improved 546",
-      "nameAr": "محسن 546",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "Improved",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "1:15 PM",
-      "arrivalTime": "5:05 PM",
-      "durationMinutes": 230,
-      "fare": 35.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_MENOUF",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
       "id": "RAIL_TRAIN_547",
       "number": "547",
       "nameEn": "Improved 547",
@@ -5650,25 +5175,6 @@
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
         "RAIL_TANTA"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_548",
-      "number": "548",
-      "nameEn": "Improved 548",
-      "nameAr": "محسن 548",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "Improved",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "2:35 PM",
-      "arrivalTime": "6:00 PM",
-      "durationMinutes": 205,
-      "fare": 35.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_MENOUF",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
@@ -5691,25 +5197,6 @@
       ]
     },
     {
-      "id": "RAIL_TRAIN_550",
-      "number": "550",
-      "nameEn": "Improved 550",
-      "nameAr": "محسن 550",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "Improved",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "3:30 PM",
-      "arrivalTime": "6:55 PM",
-      "durationMinutes": 205,
-      "fare": 35.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_MENOUF",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
       "id": "RAIL_TRAIN_551",
       "number": "551",
       "nameEn": "Improved 551",
@@ -5726,25 +5213,6 @@
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
         "RAIL_TANTA"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_552",
-      "number": "552",
-      "nameEn": "Improved 552",
-      "nameAr": "محسن 552",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "Improved",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "4:05 PM",
-      "arrivalTime": "7:35 PM",
-      "durationMinutes": 210,
-      "fare": 35.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_MENOUF",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
@@ -5767,25 +5235,6 @@
       ]
     },
     {
-      "id": "RAIL_TRAIN_554",
-      "number": "554",
-      "nameEn": "Improved 554",
-      "nameAr": "محسن 554",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "Improved",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "5:10 PM",
-      "arrivalTime": "8:30 PM",
-      "durationMinutes": 200,
-      "fare": 35.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_MENOUF",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
       "id": "RAIL_TRAIN_555",
       "number": "555",
       "nameEn": "Improved 555",
@@ -5802,63 +5251,6 @@
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
         "RAIL_TANTA"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_556",
-      "number": "556",
-      "nameEn": "Improved 556",
-      "nameAr": "محسن 556",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "Improved",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "6:30 PM",
-      "arrivalTime": "9:55 PM",
-      "durationMinutes": 205,
-      "fare": 35.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_MENOUF",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_558",
-      "number": "558",
-      "nameEn": "Improved 558",
-      "nameAr": "محسن 558",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "Improved",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "9:00 PM",
-      "arrivalTime": "12:10 AM",
-      "durationMinutes": 190,
-      "fare": 35.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_MENOUF",
-        "RAIL_CAIRO_RAMSES"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_562",
-      "number": "562",
-      "nameEn": "Improved 562",
-      "nameAr": "محسن 562",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "Improved",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "11:35 AM",
-      "arrivalTime": "3:00 PM",
-      "durationMinutes": 205,
-      "fare": 35.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_MENOUF",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
@@ -5896,24 +5288,6 @@
       "stationIds": [
         "RAIL_CAIRO_RAMSES",
         "RAIL_TANTA"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_775-774",
-      "number": "775-774",
-      "nameEn": "AC Spanish 775-774",
-      "nameAr": "مكيف إسباني 775-774",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "AC Spanish",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "4:27 AM",
-      "arrivalTime": "5:35 AM",
-      "durationMinutes": 68,
-      "fare": 110.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {

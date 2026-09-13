@@ -1,7 +1,7 @@
 {
   "dataVersion": 2,
   "version": "6.4",
-  "lastUpdated": "2026-09-12",
+  "lastUpdated": "2026-09-13",
   "source": "egypttrains.com (live scrape of Egyptian National Railways schedules)",
   "trains": [
     {
@@ -5878,42 +5878,6 @@
         "RAIL_CAIRO_RAMSES",
         "RAIL_MENOUF",
         "RAIL_TANTA"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_773-772",
-      "number": "773-772",
-      "nameEn": "Sleep + AC Spanish 773-772",
-      "nameAr": "Sleep + AC Spanish 773-772",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "Sleep + AC Spanish",
-      "directionEn": "Cairo → Tanta",
-      "directionAr": "القاهرة ← طنطا",
-      "departureTime": "10:05 PM",
-      "arrivalTime": "11:13 PM",
-      "durationMinutes": 68,
-      "fare": 110.0,
-      "stationIds": [
-        "RAIL_CAIRO_RAMSES",
-        "RAIL_TANTA"
-      ]
-    },
-    {
-      "id": "RAIL_TRAIN_775-774",
-      "number": "775-774",
-      "nameEn": "AC Spanish 775-774",
-      "nameAr": "مكيف إسباني 775-774",
-      "lineId": "RAILWAY_CAIRO_TANTA",
-      "type": "AC Spanish",
-      "directionEn": "Tanta → Cairo",
-      "directionAr": "طنطا ← القاهرة",
-      "departureTime": "4:27 AM",
-      "arrivalTime": "5:35 AM",
-      "durationMinutes": 68,
-      "fare": 110.0,
-      "stationIds": [
-        "RAIL_TANTA",
-        "RAIL_CAIRO_RAMSES"
       ]
     },
     {
